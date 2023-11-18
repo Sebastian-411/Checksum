@@ -1,4733 +1,2710 @@
 {
-	"length": 2108,
-	"time": 5651
+	"length": 1101032,
+	"time": 373101
 }
 {
-	"length": 4099,
-	"time": 5818
+	"length": 1918791,
+	"time": 394574
 }
 {
-	"length": 6098,
-	"time": 8421
+	"length": 10100656,
+	"time": 2894403
 }
 {
-	"length": 8108,
-	"time": 5626
+	"length": 2009892,
+	"time": 530026
 }
 {
-	"length": 10091,
-	"time": 4853
+	"length": 2100728,
+	"time": 590304
 }
 {
-	"length": 20,
-	"time": 703
+	"length": 2191765,
+	"time": 501857
 }
 {
-	"length": 41,
-	"time": 749
+	"length": 2282671,
+	"time": 614476
 }
 {
-	"length": 60,
-	"time": 608
+	"length": 2373510,
+	"time": 415083
 }
 {
-	"length": 81,
-	"time": 485
+	"length": 2464239,
+	"time": 473031
 }
 {
-	"length": 100,
-	"time": 359
-}{
-	"length": 201,
-	"time": 1945
+	"length": 2555215,
+	"time": 532332
 }
 {
-	"length": 1100,
-	"time": 3788
+	"length": 2646265,
+	"time": 352340
 }
 {
-	"length": 10104,
-	"time": 11811
+	"length": 2736832,
+	"time": 326500
 }
 {
-	"length": 1204,
-	"time": 1147
+	"length": 1191801,
+	"time": 137302
 }
 {
-	"length": 1304,
-	"time": 1761
+	"length": 2828099,
+	"time": 316731
 }
 {
-	"length": 1399,
-	"time": 1226
+	"length": 2918561,
+	"time": 568986
 }
 {
-	"length": 1501,
-	"time": 1253
+	"length": 3009789,
+	"time": 539075
 }
 {
-	"length": 1606,
-	"time": 1382
+	"length": 3100727,
+	"time": 350138
 }
 {
-	"length": 1697,
-	"time": 1394
+	"length": 3191536,
+	"time": 363780
 }
 {
-	"length": 1799,
-	"time": 1245
+	"length": 3282744,
+	"time": 396643
 }
 {
-	"length": 1895,
-	"time": 1213
+	"length": 3373321,
+	"time": 721097
 }
 {
-	"length": 1990,
-	"time": 1427
+	"length": 3463931,
+	"time": 687636
 }
 {
-	"length": 301,
-	"time": 541
+	"length": 3555488,
+	"time": 732780
 }
 {
-	"length": 2103,
-	"time": 1315
+	"length": 3646190,
+	"time": 689719
 }
 {
-	"length": 2195,
-	"time": 1456
+	"length": 1282887,
+	"time": 150746
 }
 {
-	"length": 2301,
-	"time": 1225
+	"length": 3737118,
+	"time": 637139
 }
 {
-	"length": 2405,
-	"time": 1385
+	"length": 3827954,
+	"time": 1174036
 }
 {
-	"length": 2501,
-	"time": 1232
+	"length": 3918832,
+	"time": 1054162
 }
 {
-	"length": 2605,
-	"time": 1247
+	"length": 4009472,
+	"time": 927517
 }
 {
-	"length": 2700,
-	"time": 1219
+	"length": 4100653,
+	"time": 1098645
 }
 {
-	"length": 2806,
-	"time": 1525
+	"length": 4191581,
+	"time": 1161453
 }
 {
-	"length": 2901,
-	"time": 1488
+	"length": 4282695,
+	"time": 990847
 }
 {
-	"length": 3001,
-	"time": 1718
+	"length": 4373484,
+	"time": 1428970
 }
 {
-	"length": 400,
-	"time": 929
+	"length": 4464418,
+	"time": 1511082
 }
 {
-	"length": 3108,
-	"time": 1532
+	"length": 4555143,
+	"time": 1743017
 }
 {
-	"length": 3201,
-	"time": 1423
+	"length": 1373683,
+	"time": 541353
 }
 {
-	"length": 3296,
-	"time": 1387
+	"length": 4646236,
+	"time": 1269197
 }
 {
-	"length": 3402,
-	"time": 1211
+	"length": 4736917,
+	"time": 1170461
 }
 {
-	"length": 3499,
-	"time": 1259
+	"length": 4827582,
+	"time": 1185356
 }
 {
-	"length": 3600,
-	"time": 1281
+	"length": 4919300,
+	"time": 1136611
 }
 {
-	"length": 3707,
-	"time": 1360
+	"length": 5009474,
+	"time": 1315740
 }
 {
-	"length": 3814,
-	"time": 1307
+	"length": 5100520,
+	"time": 1185294
 }
 {
-	"length": 3894,
-	"time": 1481
+	"length": 5191315,
+	"time": 1147017
 }
 {
-	"length": 4005,
-	"time": 1234
+	"length": 5282603,
+	"time": 1527279
 }
 {
-	"length": 502,
-	"time": 575
+	"length": 5373139,
+	"time": 1537426
 }
 {
-	"length": 4106,
-	"time": 1426
+	"length": 5464443,
+	"time": 1232162
 }
 {
-	"length": 4202,
-	"time": 1556
+	"length": 1464531,
+	"time": 333221
 }
 {
-	"length": 4312,
-	"time": 1860
+	"length": 5554724,
+	"time": 1449117
 }
 {
-	"length": 4392,
-	"time": 1611
+	"length": 5645640,
+	"time": 1832124
 }
 {
-	"length": 4505,
-	"time": 1345
+	"length": 5736694,
+	"time": 1756959
 }
 {
-	"length": 4602,
-	"time": 1571
+	"length": 5827417,
+	"time": 1567970
 }
 {
-	"length": 4705,
-	"time": 1978
+	"length": 5918834,
+	"time": 2131744
 }
 {
-	"length": 4805,
-	"time": 1914
+	"length": 6009699,
+	"time": 1554781
 }
 {
-	"length": 4897,
-	"time": 1768
+	"length": 6100161,
+	"time": 1594253
 }
 {
-	"length": 5003,
-	"time": 2301
+	"length": 6191544,
+	"time": 1668260
 }
 {
-	"length": 599,
-	"time": 942
+	"length": 6282593,
+	"time": 1896942
 }
 {
-	"length": 5091,
-	"time": 1651
+	"length": 6373328,
+	"time": 1689270
 }
 {
-	"length": 5216,
-	"time": 3479
+	"length": 1555511,
+	"time": 334514
 }
 {
-	"length": 5312,
-	"time": 2151
+	"length": 6463998,
+	"time": 2110416
 }
 {
-	"length": 5410,
-	"time": 2002
+	"length": 6555235,
+	"time": 1900691
 }
 {
-	"length": 5494,
-	"time": 1827
+	"length": 6645922,
+	"time": 1755102
 }
 {
-	"length": 5597,
-	"time": 2329
+	"length": 6736705,
+	"time": 1969499
 }
 {
-	"length": 5699,
-	"time": 2288
+	"length": 6827439,
+	"time": 1655123
 }
 {
-	"length": 5799,
-	"time": 1933
+	"length": 6918136,
+	"time": 1823258
 }
 {
-	"length": 5912,
-	"time": 2335
+	"length": 7009082,
+	"time": 2432133
 }
 {
-	"length": 6007,
-	"time": 2067
+	"length": 7100535,
+	"time": 2173698
 }
 {
-	"length": 700,
-	"time": 711
+	"length": 7190901,
+	"time": 1858738
 }
 {
-	"length": 6099,
-	"time": 2277
+	"length": 7282144,
+	"time": 1798848
 }
 {
-	"length": 6186,
-	"time": 3170
+	"length": 1646088,
+	"time": 320135
 }
 {
-	"length": 6303,
-	"time": 2278
+	"length": 7372925,
+	"time": 2293612
 }
 {
-	"length": 6396,
-	"time": 2381
+	"length": 7464298,
+	"time": 2071092
 }
 {
-	"length": 6490,
-	"time": 2298
+	"length": 7554770,
+	"time": 2152717
 }
 {
-	"length": 6596,
-	"time": 2188
+	"length": 7645644,
+	"time": 2502080
 }
 {
-	"length": 6707,
-	"time": 2412
+	"length": 7736518,
+	"time": 2012826
 }
 {
-	"length": 6808,
-	"time": 2209
+	"length": 7827408,
+	"time": 2277687
 }
 {
-	"length": 6925,
-	"time": 2566
+	"length": 7918764,
+	"time": 1947668
 }
 {
-	"length": 6995,
-	"time": 2571
+	"length": 8009068,
+	"time": 2477188
 }
 {
-	"length": 799,
-	"time": 903
+	"length": 8100256,
+	"time": 2792263
 }
 {
-	"length": 7119,
-	"time": 2581
+	"length": 8191463,
+	"time": 2592440
 }
 {
-	"length": 7199,
-	"time": 2431
+	"length": 1737286,
+	"time": 463721
 }
 {
-	"length": 7307,
-	"time": 2395
+	"length": 8282317,
+	"time": 2329564
 }
 {
-	"length": 7401,
-	"time": 2783
+	"length": 8372961,
+	"time": 2822518
 }
 {
-	"length": 7507,
-	"time": 2346
+	"length": 8463098,
+	"time": 2588538
 }
 {
-	"length": 7611,
-	"time": 2137
+	"length": 8554636,
+	"time": 2752521
 }
 {
-	"length": 7694,
-	"time": 2078
+	"length": 8645239,
+	"time": 2869457
 }
 {
-	"length": 7799,
-	"time": 1929
+	"length": 8735921,
+	"time": 3069958
 }
 {
-	"length": 7900,
-	"time": 1985
+	"length": 8827587,
+	"time": 2534354
 }
 {
-	"length": 8004,
-	"time": 2167
+	"length": 8918101,
+	"time": 2892533
 }
 {
-	"length": 902,
-	"time": 480
+	"length": 9008879,
+	"time": 2564834
 }
 {
-	"length": 8094,
-	"time": 2085
+	"length": 9099934,
+	"time": 2993022
 }
 {
-	"length": 8211,
-	"time": 2189
+	"length": 1827992,
+	"time": 403069
 }
 {
-	"length": 8292,
-	"time": 2251
+	"length": 9190698,
+	"time": 2933642
 }
 {
-	"length": 8395,
-	"time": 3261
+	"length": 9281926,
+	"time": 2893217
 }
 {
-	"length": 8516,
-	"time": 1561
+	"length": 9372982,
+	"time": 2890068
 }
 {
-	"length": 8587,
-	"time": 1667
+	"length": 9463726,
+	"time": 3167514
 }
 {
-	"length": 8705,
-	"time": 1371
+	"length": 9554686,
+	"time": 2812513
 }
 {
-	"length": 8783,
-	"time": 1584
+	"length": 9645775,
+	"time": 2777661
 }
 {
-	"length": 8900,
-	"time": 1596
+	"length": 9736561,
+	"time": 3127576
 }
 {
-	"length": 9006,
-	"time": 1517
+	"length": 9826771,
+	"time": 2826189
 }
 {
-	"length": 1001,
-	"time": 356
+	"length": 9918040,
+	"time": 2614375
 }
 {
-	"length": 9109,
-	"time": 2525
+	"length": 10009343,
+	"time": 2764242
 }
 {
-	"length": 9204,
-	"time": 1393
-}
-{
-	"length": 9307,
-	"time": 1512
-}
-{
-	"length": 9399,
-	"time": 1283
-}
-{
-	"length": 9512,
-	"time": 1794
-}
-{
-	"length": 9605,
-	"time": 1641
-}
-{
-	"length": 9713,
-	"time": 1530
-}
-{
-	"length": 9776,
-	"time": 1423
-}
-{
-	"length": 9928,
-	"time": 1605
-}
-{
-	"length": 9990,
-	"time": 1466
-}
-{
-	"length": 1,
-	"time": 219
-}
-{
-	"length": 10,
-	"time": 217
-}
-{
-	"length": 101,
-	"time": 224
-}
-{
-	"length": 11,
-	"time": 182
-}
-{
-	"length": 12,
-	"time": 202
-}
-{
-	"length": 13,
-	"time": 157
-}
-{
-	"length": 14,
-	"time": 197
-}
-{
-	"length": 15,
-	"time": 226
-}
-{
-	"length": 17,
-	"time": 196
-}
-{
-	"length": 17,
-	"time": 158
-}
-{
-	"length": 18,
-	"time": 166
-}
-{
-	"length": 20,
-	"time": 157
-}
-{
-	"length": 2,
-	"time": 187
-}
-{
-	"length": 20,
-	"time": 247
-}
-{
-	"length": 22,
-	"time": 172
-}
-{
-	"length": 22,
-	"time": 165
-}
-{
-	"length": 23,
-	"time": 243
-}
-{
-	"length": 24,
-	"time": 190
-}
-{
-	"length": 25,
-	"time": 164
-}
-{
-	"length": 28,
-	"time": 150
-}
-{
-	"length": 27,
-	"time": 228
-}
-{
-	"length": 28,
-	"time": 175
-}
-{
-	"length": 29,
-	"time": 201
-}
-{
-	"length": 3,
-	"time": 177
-}
-{
-	"length": 30,
-	"time": 156
-}
-{
-	"length": 31,
-	"time": 234
-}
-{
-	"length": 32,
-	"time": 153
-}
-{
-	"length": 33,
-	"time": 174
-}
-{
-	"length": 34,
-	"time": 169
-}
-{
-	"length": 35,
-	"time": 179
-}
-{
-	"length": 36,
-	"time": 176
-}
-{
-	"length": 37,
-	"time": 146
-}
-{
-	"length": 38,
-	"time": 174
-}
-{
-	"length": 39,
-	"time": 243
-}
-{
-	"length": 4,
-	"time": 177
-}
-{
-	"length": 42,
-	"time": 152
-}
-{
-	"length": 42,
-	"time": 189
-}
-{
-	"length": 42,
-	"time": 169
-}
-{
-	"length": 43,
-	"time": 199
-}
-{
-	"length": 44,
-	"time": 153
-}
-{
-	"length": 46,
-	"time": 150
-}
-{
-	"length": 46,
-	"time": 170
-}
-{
-	"length": 48,
-	"time": 183
-}
-{
-	"length": 48,
-	"time": 151
-}
-{
-	"length": 49,
-	"time": 162
-}
-{
-	"length": 5,
-	"time": 143
-}
-{
-	"length": 50,
-	"time": 197
-}
-{
-	"length": 51,
-	"time": 152
-}
-{
-	"length": 52,
-	"time": 150
-}
-{
-	"length": 54,
-	"time": 153
-}
-{
-	"length": 54,
-	"time": 203
-}
-{
-	"length": 55,
-	"time": 148
-}
-{
-	"length": 57,
-	"time": 156
-}
-{
-	"length": 60,
-	"time": 151
-}
-{
-	"length": 58,
-	"time": 157
-}
-{
-	"length": 60,
-	"time": 363
-}
-{
-	"length": 6,
-	"time": 328
-}
-{
-	"length": 61,
-	"time": 211
-}
-{
-	"length": 62,
-	"time": 196
-}
-{
-	"length": 62,
-	"time": 150
-}
-{
-	"length": 63,
-	"time": 160
-}
-{
-	"length": 65,
-	"time": 146
-}
-{
-	"length": 65,
-	"time": 145
-}
-{
-	"length": 66,
-	"time": 173
-}
-{
-	"length": 67,
-	"time": 156
-}
-{
-	"length": 69,
-	"time": 168
-}
-{
-	"length": 70,
-	"time": 196
-}
-{
-	"length": 7,
-	"time": 138
-}
-{
-	"length": 71,
-	"time": 148
-}
-{
-	"length": 73,
-	"time": 163
-}
-{
-	"length": 72,
-	"time": 167
-}
-{
-	"length": 73,
-	"time": 147
-}
-{
-	"length": 75,
-	"time": 177
-}
-{
-	"length": 77,
-	"time": 154
-}
-{
-	"length": 76,
-	"time": 197
-}
-{
-	"length": 79,
-	"time": 153
-}
-{
-	"length": 80,
-	"time": 172
-}
-{
-	"length": 79,
-	"time": 175
-}
-{
-	"length": 8,
-	"time": 152
-}
-{
-	"length": 80,
-	"time": 167
-}
-{
-	"length": 83,
-	"time": 157
-}
-{
-	"length": 83,
-	"time": 159
-}
-{
-	"length": 85,
-	"time": 228
-}
-{
-	"length": 85,
-	"time": 168
-}
-{
-	"length": 87,
-	"time": 159
-}
-{
-	"length": 89,
-	"time": 160
-}
-{
-	"length": 89,
-	"time": 157
-}
-{
-	"length": 89,
-	"time": 152
-}
-{
-	"length": 89,
-	"time": 245
-}
-{
-	"length": 9,
-	"time": 162
-}
-{
-	"length": 91,
-	"time": 205
-}
-{
-	"length": 91,
-	"time": 246
-}
-{
-	"length": 94,
-	"time": 199
-}
-{
-	"length": 95,
-	"time": 277
-}
-{
-	"length": 95,
-	"time": 176
-}
-{
-	"length": 98,
-	"time": 187
-}
-{
-	"length": 97,
-	"time": 211
-}
-{
-	"length": 99,
-	"time": 146
-}
-{
-	"length": 99,
-	"time": 205
-}
-{
-	"length": 99,
-	"time": 148
-}
-{
-	"length": 201,
-	"time": 2092
-}
-{
-	"length": 1100,
-	"time": 3814
-}
-{
-	"length": 10104,
-	"time": 15382
-}
-{
-	"length": 1204,
-	"time": 1616
-}
-{
-	"length": 1304,
-	"time": 1598
-}
-{
-	"length": 1399,
-	"time": 1423
-}
-{
-	"length": 1501,
-	"time": 1716
-}
-{
-	"length": 1606,
-	"time": 1927
-}
-{
-	"length": 1697,
-	"time": 1925
-}
-{
-	"length": 1799,
-	"time": 1980
-}
-{
-	"length": 1895,
-	"time": 2006
-}
-{
-	"length": 1990,
-	"time": 1862
-}
-{
-	"length": 301,
-	"time": 904
-}
-{
-	"length": 2103,
-	"time": 2001
-}
-{
-	"length": 2195,
-	"time": 1555
-}
-{
-	"length": 2301,
-	"time": 1467
-}
-{
-	"length": 2405,
-	"time": 1563
-}
-{
-	"length": 2501,
-	"time": 1750
-}
-{
-	"length": 2605,
-	"time": 1660
-}
-{
-	"length": 2700,
-	"time": 1983
-}
-{
-	"length": 2806,
-	"time": 1844
-}
-{
-	"length": 2901,
-	"time": 1914
-}
-{
-	"length": 3001,
-	"time": 2231
-}
-{
-	"length": 400,
-	"time": 1076
-}
-{
-	"length": 3108,
-	"time": 1963
-}
-{
-	"length": 3201,
-	"time": 1861
-}
-{
-	"length": 3296,
-	"time": 1936
-}
-{
-	"length": 3402,
-	"time": 1462
-}
-{
-	"length": 3499,
-	"time": 1686
-}
-{
-	"length": 3600,
-	"time": 1987
-}
-{
-	"length": 3707,
-	"time": 1626
-}
-{
-	"length": 3814,
-	"time": 1367
-}
-{
-	"length": 3894,
-	"time": 1539
-}
-{
-	"length": 4005,
-	"time": 1318
-}
-{
-	"length": 502,
-	"time": 576
-}
-{
-	"length": 4106,
-	"time": 1302
-}
-{
-	"length": 4202,
-	"time": 1545
-}
-{
-	"length": 4312,
-	"time": 2226
-}
-{
-	"length": 4392,
-	"time": 1812
-}
-{
-	"length": 4505,
-	"time": 1790
-}
-{
-	"length": 4602,
-	"time": 1600
-}
-{
-	"length": 4705,
-	"time": 2694
-}
-{
-	"length": 4805,
-	"time": 2708
-}
-{
-	"length": 4897,
-	"time": 2828
-}
-{
-	"length": 5003,
-	"time": 2354
-}
-{
-	"length": 599,
-	"time": 670
-}
-{
-	"length": 5091,
-	"time": 2389
-}
-{
-	"length": 5216,
-	"time": 2462
-}
-{
-	"length": 5312,
-	"time": 2463
-}
-{
-	"length": 5410,
-	"time": 2278
-}
-{
-	"length": 5494,
-	"time": 2221
-}
-{
-	"length": 5597,
-	"time": 2054
-}
-{
-	"length": 5699,
-	"time": 2423
-}
-{
-	"length": 5799,
-	"time": 2304
-}
-{
-	"length": 5912,
-	"time": 2469
-}
-{
-	"length": 6007,
-	"time": 2422
-}
-{
-	"length": 700,
-	"time": 1060
-}
-{
-	"length": 6099,
-	"time": 3273
-}
-{
-	"length": 6186,
-	"time": 2724
-}
-{
-	"length": 6303,
-	"time": 2849
-}
-{
-	"length": 6396,
-	"time": 3467
-}
-{
-	"length": 6490,
-	"time": 3661
-}
-{
-	"length": 6596,
-	"time": 3211
-}
-{
-	"length": 6707,
-	"time": 3300
-}
-{
-	"length": 6808,
-	"time": 3122
-}
-{
-	"length": 6925,
-	"time": 2799
-}
-{
-	"length": 6995,
-	"time": 2662
-}
-{
-	"length": 799,
-	"time": 740
-}
-{
-	"length": 7119,
-	"time": 2555
-}
-{
-	"length": 7199,
-	"time": 2282
-}
-{
-	"length": 7307,
-	"time": 2876
-}
-{
-	"length": 7401,
-	"time": 2240
-}
-{
-	"length": 7507,
-	"time": 3174
-}
-{
-	"length": 7611,
-	"time": 2767
-}
-{
-	"length": 7694,
-	"time": 2462
-}
-{
-	"length": 7799,
-	"time": 3098
-}
-{
-	"length": 7900,
-	"time": 2738
-}
-{
-	"length": 8004,
-	"time": 2478
-}
-{
-	"length": 902,
-	"time": 710
-}
-{
-	"length": 8094,
-	"time": 2397
-}
-{
-	"length": 8211,
-	"time": 2633
-}
-{
-	"length": 8292,
-	"time": 3567
-}
-{
-	"length": 8395,
-	"time": 3083
-}
-{
-	"length": 8516,
-	"time": 1780
-}
-{
-	"length": 8587,
-	"time": 2419
-}
-{
-	"length": 8705,
-	"time": 1946
-}
-{
-	"length": 8783,
-	"time": 2476
-}
-{
-	"length": 8900,
-	"time": 2999
-}
-{
-	"length": 9006,
-	"time": 2490
-}
-{
-	"length": 1001,
-	"time": 506
-}
-{
-	"length": 9109,
-	"time": 2771
-}
-{
-	"length": 9204,
-	"time": 1671
-}
-{
-	"length": 9307,
-	"time": 1712
-}
-{
-	"length": 9399,
-	"time": 1740
-}
-{
-	"length": 9512,
-	"time": 2456
-}
-{
-	"length": 9605,
-	"time": 1841
-}
-{
-	"length": 9713,
-	"time": 1928
-}
-{
-	"length": 9776,
-	"time": 2768
-}
-{
-	"length": 9928,
-	"time": 2606
-}
-{
-	"length": 9990,
-	"time": 4042
-}
-{
-	"length": 3,
-	"time": 260
-}
-{
-	"length": 33,
-	"time": 404
-}
-{
-	"length": 33,
-	"time": 277
-}
-{
-	"length": 36,
-	"time": 617
-}
-{
-	"length": 34,
-	"time": 356
-}
-{
-	"length": 35,
-	"time": 317
-}
-{
-	"length": 36,
-	"time": 369
-}
-{
-	"length": 35,
-	"time": 288
-}
-{
-	"length": 35,
-	"time": 329
-}
-{
-	"length": 36,
-	"time": 260
-}
-{
-	"length": 36,
-	"time": 244
-}
-{
-	"length": 3,
-	"time": 138
-}
-{
-	"length": 37,
-	"time": 263
-}
-{
-	"length": 38,
-	"time": 324
-}
-{
-	"length": 37,
-	"time": 485
-}
-{
-	"length": 37,
-	"time": 295
-}
-{
-	"length": 38,
-	"time": 260
-}
-{
-	"length": 38,
-	"time": 254
-}
-{
-	"length": 38,
-	"time": 326
-}
-{
-	"length": 39,
-	"time": 326
-}
-{
-	"length": 40,
-	"time": 329
-}
-{
-	"length": 39,
-	"time": 457
-}
-{
-	"length": 4,
-	"time": 139
-}
-{
-	"length": 40,
-	"time": 262
-}
-{
-	"length": 40,
-	"time": 261
-}
-{
-	"length": 40,
-	"time": 293
-}
-{
-	"length": 41,
-	"time": 318
-}
-{
-	"length": 41,
-	"time": 266
-}
-{
-	"length": 43,
-	"time": 304
-}
-{
-	"length": 44,
-	"time": 266
-}
-{
-	"length": 42,
-	"time": 405
-}
-{
-	"length": 42,
-	"time": 363
-}
-{
-	"length": 44,
-	"time": 278
-}
-{
-	"length": 4,
-	"time": 124
-}
-{
-	"length": 43,
-	"time": 276
-}
-{
-	"length": 43,
-	"time": 305
-}
-{
-	"length": 44,
-	"time": 259
-}
-{
-	"length": 44,
-	"time": 234
-}
-{
-	"length": 45,
-	"time": 299
-}
-{
-	"length": 45,
-	"time": 236
-}
-{
-	"length": 45,
-	"time": 269
-}
-{
-	"length": 47,
-	"time": 233
-}
-{
-	"length": 47,
-	"time": 256
-}
-{
-	"length": 46,
-	"time": 247
-}
-{
-	"length": 4,
-	"time": 155
-}
-{
-	"length": 49,
-	"time": 466
-}
-{
-	"length": 47,
-	"time": 369
-}
-{
-	"length": 48,
-	"time": 317
-}
-{
-	"length": 47,
-	"time": 229
-}
-{
-	"length": 48,
-	"time": 285
-}
-{
-	"length": 50,
-	"time": 241
-}
-{
-	"length": 49,
-	"time": 213
-}
-{
-	"length": 50,
-	"time": 231
-}
-{
-	"length": 49,
-	"time": 412
-}
-{
-	"length": 49,
-	"time": 382
-}
-{
-	"length": 5,
-	"time": 417
-}
-{
-	"length": 50,
-	"time": 226
-}
-{
-	"length": 50,
-	"time": 306
-}
-{
-	"length": 50,
-	"time": 220
-}
-{
-	"length": 51,
-	"time": 223
-}
-{
-	"length": 52,
-	"time": 444
-}
-{
-	"length": 52,
-	"time": 227
-}
-{
-	"length": 53,
-	"time": 223
-}
-{
-	"length": 52,
-	"time": 226
-}
-{
-	"length": 53,
-	"time": 195
-}
-{
-	"length": 54,
-	"time": 276
-}
-{
-	"length": 5,
-	"time": 255
-}
-{
-	"length": 53,
-	"time": 252
-}
-{
-	"length": 53,
-	"time": 198
-}
-{
-	"length": 54,
-	"time": 206
-}
-{
-	"length": 56,
-	"time": 223
-}
-{
-	"length": 54,
-	"time": 335
-}
-{
-	"length": 55,
-	"time": 177
-}
-{
-	"length": 55,
-	"time": 290
-}
-{
-	"length": 56,
-	"time": 302
-}
-{
-	"length": 57,
-	"time": 241
-}
-{
-	"length": 56,
-	"time": 327
-}
-{
-	"length": 5,
-	"time": 180
-}
-{
-	"length": 57,
-	"time": 248
-}
-{
-	"length": 59,
-	"time": 264
-}
-{
-	"length": 59,
-	"time": 197
-}
-{
-	"length": 57,
-	"time": 223
-}
-{
-	"length": 58,
-	"time": 287
-}
-{
-	"length": 58,
-	"time": 204
-}
-{
-	"length": 59,
-	"time": 299
-}
-{
-	"length": 59,
-	"time": 223
-}
-{
-	"length": 59,
-	"time": 201
-}
-{
-	"length": 59,
-	"time": 242
-}
-{
-	"length": 6,
-	"time": 300
-}
-{
-	"length": 60,
-	"time": 223
-}
-{
-	"length": 61,
-	"time": 179
-}
-{
-	"length": 60,
-	"time": 188
-}
-{
-	"length": 61,
-	"time": 323
-}
-{
-	"length": 62,
-	"time": 290
-}
-{
-	"length": 61,
-	"time": 281
-}
-{
-	"length": 62,
-	"time": 334
-}
-{
-	"length": 62,
-	"time": 195
-}
-{
-	"length": 63,
-	"time": 233
-}
-{
-	"length": 64,
-	"time": 262
-}
-{
-	"length": 6,
-	"time": 297
-}
-{
-	"length": 64,
-	"time": 250
-}
-{
-	"length": 65,
-	"time": 284
-}
-{
-	"length": 65,
-	"time": 214
-}
-{
-	"length": 64,
-	"time": 236
-}
-{
-	"length": 65,
-	"time": 278
-}
-{
-	"length": 65,
-	"time": 212
-}
-{
-	"length": 65,
-	"time": 184
-}
-{
-	"length": 67,
-	"time": 202
-}
-{
-	"length": 66,
-	"time": 227
-}
-{
-	"length": 67,
-	"time": 195
-}
-{
-	"length": 6,
-	"time": 242
-}
-{
-	"length": 66,
-	"time": 296
-}
-{
-	"length": 68,
-	"time": 246
-}
-{
-	"length": 67,
-	"time": 202
-}
-{
-	"length": 68,
-	"time": 289
-}
-{
-	"length": 68,
-	"time": 186
-}
-{
-	"length": 68,
-	"time": 225
-}
-{
-	"length": 69,
-	"time": 242
-}
-{
-	"length": 70,
-	"time": 300
-}
-{
-	"length": 69,
-	"time": 315
-}
-{
-	"length": 69,
-	"time": 186
-}
-{
-	"length": 7,
-	"time": 199
-}
-{
-	"length": 70,
-	"time": 174
-}
-{
-	"length": 72,
-	"time": 245
-}
-{
-	"length": 72,
-	"time": 181
-}
-{
-	"length": 71,
-	"time": 149
-}
-{
-	"length": 71,
-	"time": 236
-}
-{
-	"length": 71,
-	"time": 175
-}
-{
-	"length": 74,
-	"time": 302
-}
-{
-	"length": 75,
-	"time": 167
-}
-{
-	"length": 73,
-	"time": 214
-}
-{
-	"length": 74,
-	"time": 274
-}
-{
-	"length": 7,
-	"time": 169
-}
-{
-	"length": 74,
-	"time": 196
-}
-{
-	"length": 73,
-	"time": 184
-}
-{
-	"length": 76,
-	"time": 227
-}
-{
-	"length": 75,
-	"time": 199
-}
-{
-	"length": 74,
-	"time": 243
-}
-{
-	"length": 75,
-	"time": 187
-}
-{
-	"length": 77,
-	"time": 287
-}
-{
-	"length": 75,
-	"time": 321
-}
-{
-	"length": 76,
-	"time": 273
-}
-{
-	"length": 77,
-	"time": 304
-}
-{
-	"length": 7,
-	"time": 193
-}
-{
-	"length": 76,
-	"time": 241
-}
-{
-	"length": 78,
-	"time": 164
-}
-{
-	"length": 78,
-	"time": 314
-}
-{
-	"length": 77,
-	"time": 199
-}
-{
-	"length": 80,
-	"time": 185
-}
-{
-	"length": 80,
-	"time": 196
-}
-{
-	"length": 81,
-	"time": 245
-}
-{
-	"length": 79,
-	"time": 156
-}
-{
-	"length": 79,
-	"time": 208
-}
-{
-	"length": 79,
-	"time": 155
-}
-{
-	"length": 8,
-	"time": 197
-}
-{
-	"length": 81,
-	"time": 246
-}
-{
-	"length": 82,
-	"time": 203
-}
-{
-	"length": 80,
-	"time": 232
-}
-{
-	"length": 81,
-	"time": 299
-}
-{
-	"length": 81,
-	"time": 180
-}
-{
-	"length": 81,
-	"time": 241
-}
-{
-	"length": 83,
-	"time": 157
-}
-{
-	"length": 82,
-	"time": 196
-}
-{
-	"length": 82,
-	"time": 190
-}
-{
-	"length": 83,
-	"time": 186
-}
-{
-	"length": 8,
-	"time": 162
-}
-{
-	"length": 84,
-	"time": 240
-}
-{
-	"length": 83,
-	"time": 210
-}
-{
-	"length": 86,
-	"time": 195
-}
-{
-	"length": 85,
-	"time": 328
-}
-{
-	"length": 84,
-	"time": 205
-}
-{
-	"length": 85,
-	"time": 255
-}
-{
-	"length": 88,
-	"time": 228
-}
-{
-	"length": 86,
-	"time": 226
-}
-{
-	"length": 86,
-	"time": 193
-}
-{
-	"length": 87,
-	"time": 208
-}
-{
-	"length": 8,
-	"time": 242
-}
-{
-	"length": 87,
-	"time": 175
-}
-{
-	"length": 90,
-	"time": 203
-}
-{
-	"length": 87,
-	"time": 198
-}
-{
-	"length": 87,
-	"time": 186
-}
-{
-	"length": 88,
-	"time": 193
-}
-{
-	"length": 88,
-	"time": 263
-}
-{
-	"length": 88,
-	"time": 301
-}
-{
-	"length": 89,
-	"time": 214
-}
-{
-	"length": 90,
-	"time": 187
-}
-{
-	"length": 90,
-	"time": 177
-}
-{
-	"length": 10,
-	"time": 206
-}
-{
-	"length": 91,
-	"time": 168
-}
-{
-	"length": 91,
-	"time": 327
-}
-{
-	"length": 90,
-	"time": 223
-}
-{
-	"length": 93,
-	"time": 188
-}
-{
-	"length": 93,
-	"time": 252
-}
-{
-	"length": 93,
-	"time": 238
-}
-{
-	"length": 92,
-	"time": 160
-}
-{
-	"length": 92,
-	"time": 150
-}
-{
-	"length": 94,
-	"time": 265
-}
-{
-	"length": 93,
-	"time": 226
-}
-{
-	"length": 9,
-	"time": 222
-}
-{
-	"length": 93,
-	"time": 142
-}
-{
-	"length": 93,
-	"time": 164
-}
-{
-	"length": 94,
-	"time": 232
-}
-{
-	"length": 94,
-	"time": 198
-}
-{
-	"length": 95,
-	"time": 194
-}
-{
-	"length": 95,
-	"time": 183
-}
-{
-	"length": 95,
-	"time": 178
-}
-{
-	"length": 95,
-	"time": 179
-}
-{
-	"length": 98,
-	"time": 183
-}
-{
-	"length": 98,
-	"time": 170
-}
-{
-	"length": 9,
-	"time": 165
-}
-{
-	"length": 100,
-	"time": 135
-}
-{
-	"length": 97,
-	"time": 218
-}
-{
-	"length": 97,
-	"time": 171
-}
-{
-	"length": 98,
-	"time": 261
-}
-{
-	"length": 98,
-	"time": 195
-}
-{
-	"length": 98,
-	"time": 260
-}
-{
-	"length": 100,
-	"time": 181
-}
-{
-	"length": 101,
-	"time": 264
-}
-{
-	"length": 101,
-	"time": 176
-}
-{
-	"length": 103,
-	"time": 301
-}
-{
-	"length": 1,
-	"time": 98
-}
-{
-	"length": 10,
-	"time": 289
-}
-{
-	"length": 100,
-	"time": 179
-}
-{
-	"length": 10,
-	"time": 131
-}
-{
-	"length": 11,
-	"time": 183
-}
-{
-	"length": 12,
-	"time": 158
-}
-{
-	"length": 11,
-	"time": 211
-}
-{
-	"length": 11,
-	"time": 173
-}
-{
-	"length": 12,
-	"time": 166
-}
-{
-	"length": 12,
-	"time": 166
-}
-{
-	"length": 12,
-	"time": 162
-}
-{
-	"length": 14,
-	"time": 168
-}
-{
-	"length": 1,
-	"time": 89
-}
-{
-	"length": 13,
-	"time": 223
-}
-{
-	"length": 13,
-	"time": 244
-}
-{
-	"length": 14,
-	"time": 153
-}
-{
-	"length": 14,
-	"time": 225
-}
-{
-	"length": 14,
-	"time": 173
-}
-{
-	"length": 15,
-	"time": 251
-}
-{
-	"length": 15,
-	"time": 207
-}
-{
-	"length": 15,
-	"time": 238
-}
-{
-	"length": 16,
-	"time": 173
-}
-{
-	"length": 16,
-	"time": 148
-}
-{
-	"length": 1,
-	"time": 80
-}
-{
-	"length": 16,
-	"time": 243
-}
-{
-	"length": 18,
-	"time": 166
-}
-{
-	"length": 17,
-	"time": 124
-}
-{
-	"length": 17,
-	"time": 187
-}
-{
-	"length": 18,
-	"time": 172
-}
-{
-	"length": 18,
-	"time": 239
-}
-{
-	"length": 18,
-	"time": 207
-}
-{
-	"length": 19,
-	"time": 163
-}
-{
-	"length": 19,
-	"time": 155
-}
-{
-	"length": 19,
-	"time": 253
-}
-{
-	"length": 2,
-	"time": 84
-}
-{
-	"length": 20,
-	"time": 199
-}
-{
-	"length": 20,
-	"time": 247
-}
-{
-	"length": 21,
-	"time": 176
-}
-{
-	"length": 22,
-	"time": 180
-}
-{
-	"length": 22,
-	"time": 169
-}
-{
-	"length": 21,
-	"time": 218
-}
-{
-	"length": 22,
-	"time": 162
-}
-{
-	"length": 22,
-	"time": 239
-}
-{
-	"length": 22,
-	"time": 395
-}
-{
-	"length": 24,
-	"time": 175
-}
-{
-	"length": 2,
-	"time": 83
-}
-{
-	"length": 23,
-	"time": 162
-}
-{
-	"length": 23,
-	"time": 206
-}
-{
-	"length": 24,
-	"time": 156
-}
-{
-	"length": 24,
-	"time": 177
-}
-{
-	"length": 24,
-	"time": 162
-}
-{
-	"length": 26,
-	"time": 241
-}
-{
-	"length": 25,
-	"time": 349
-}
-{
-	"length": 25,
-	"time": 169
-}
-{
-	"length": 26,
-	"time": 128
-}
-{
-	"length": 26,
-	"time": 236
-}
-{
-	"length": 2,
-	"time": 82
-}
-{
-	"length": 26,
-	"time": 179
-}
-{
-	"length": 27,
-	"time": 274
-}
-{
-	"length": 27,
-	"time": 270
-}
-{
-	"length": 28,
-	"time": 173
-}
-{
-	"length": 28,
-	"time": 124
-}
-{
-	"length": 29,
-	"time": 216
-}
-{
-	"length": 28,
-	"time": 177
-}
-{
-	"length": 30,
-	"time": 268
-}
-{
-	"length": 29,
-	"time": 469
-}
-{
-	"length": 30,
-	"time": 370
-}
-{
-	"length": 3,
-	"time": 91
-}
-{
-	"length": 30,
-	"time": 163
-}
-{
-	"length": 30,
-	"time": 232
-}
-{
-	"length": 30,
-	"time": 306
-}
-{
-	"length": 32,
-	"time": 143
-}
-{
-	"length": 31,
-	"time": 254
-}
-{
-	"length": 31,
-	"time": 180
-}
-{
-	"length": 32,
-	"time": 139
-}
-{
-	"length": 32,
-	"time": 358
-}
-{
-	"length": 32,
-	"time": 221
-}
-{
-	"length": 33,
-	"time": 193
-}
-{
-	"length": 3,
-	"time": 485
-}
-{
-	"length": 33,
-	"time": 782
-}
-{
-	"length": 33,
-	"time": 676
-}
-{
-	"length": 34,
-	"time": 661
-}
-{
-	"length": 36,
-	"time": 934
-}
-{
-	"length": 35,
-	"time": 731
-}
-{
-	"length": 35,
-	"time": 685
-}
-{
-	"length": 35,
-	"time": 606
-}
-{
-	"length": 35,
-	"time": 487
-}
-{
-	"length": 36,
-	"time": 520
-}
-{
-	"length": 36,
-	"time": 462
-}
-{
-	"length": 3,
-	"time": 329
-}
-{
-	"length": 36,
-	"time": 411
-}
-{
-	"length": 37,
-	"time": 469
-}
-{
-	"length": 38,
-	"time": 517
-}
-{
-	"length": 37,
-	"time": 648
-}
-{
-	"length": 38,
-	"time": 497
-}
-{
-	"length": 39,
-	"time": 538
-}
-{
-	"length": 38,
-	"time": 503
-}
-{
-	"length": 39,
-	"time": 519
-}
-{
-	"length": 40,
-	"time": 875
-}
-{
-	"length": 39,
-	"time": 480
-}
-{
-	"length": 5,
-	"time": 584
-}
-{
-	"length": 40,
-	"time": 526
-}
-{
-	"length": 41,
-	"time": 465
-}
-{
-	"length": 41,
-	"time": 508
-}
-{
-	"length": 43,
-	"time": 729
-}
-{
-	"length": 42,
-	"time": 554
-}
-{
-	"length": 41,
-	"time": 470
-}
-{
-	"length": 42,
-	"time": 621
-}
-{
-	"length": 43,
-	"time": 742
-}
-{
-	"length": 43,
-	"time": 586
-}
-{
-	"length": 43,
-	"time": 622
-}
-{
-	"length": 4,
-	"time": 264
-}
-{
-	"length": 43,
-	"time": 527
-}
-{
-	"length": 44,
-	"time": 573
-}
-{
-	"length": 44,
-	"time": 733
-}
-{
-	"length": 44,
-	"time": 640
-}
-{
-	"length": 44,
-	"time": 858
-}
-{
-	"length": 45,
-	"time": 648
-}
-{
-	"length": 45,
-	"time": 631
-}
-{
-	"length": 45,
-	"time": 615
-}
-{
-	"length": 47,
-	"time": 503
-}
-{
-	"length": 49,
-	"time": 837
-}
-{
-	"length": 4,
-	"time": 309
-}
-{
-	"length": 46,
-	"time": 788
-}
-{
-	"length": 47,
-	"time": 493
-}
-{
-	"length": 48,
-	"time": 513
-}
-{
-	"length": 48,
-	"time": 667
-}
-{
-	"length": 49,
-	"time": 534
-}
-{
-	"length": 48,
-	"time": 450
-}
-{
-	"length": 48,
-	"time": 460
-}
-{
-	"length": 50,
-	"time": 714
-}
-{
-	"length": 49,
-	"time": 528
-}
-{
-	"length": 50,
-	"time": 448
-}
-{
-	"length": 5,
-	"time": 415
-}
-{
-	"length": 51,
-	"time": 486
-}
-{
-	"length": 51,
-	"time": 472
-}
-{
-	"length": 50,
-	"time": 502
-}
-{
-	"length": 51,
-	"time": 424
-}
-{
-	"length": 51,
-	"time": 503
-}
-{
-	"length": 51,
-	"time": 550
-}
-{
-	"length": 52,
-	"time": 903
-}
-{
-	"length": 52,
-	"time": 533
-}
-{
-	"length": 52,
-	"time": 597
-}
-{
-	"length": 53,
-	"time": 687
-}
-{
-	"length": 5,
-	"time": 447
-}
-{
-	"length": 53,
-	"time": 524
-}
-{
-	"length": 54,
-	"time": 605
-}
-{
-	"length": 54,
-	"time": 632
-}
-{
-	"length": 54,
-	"time": 582
-}
-{
-	"length": 55,
-	"time": 564
-}
-{
-	"length": 55,
-	"time": 599
-}
-{
-	"length": 55,
-	"time": 520
-}
-{
-	"length": 56,
-	"time": 609
-}
-{
-	"length": 57,
-	"time": 487
-}
-{
-	"length": 56,
-	"time": 861
-}
-{
-	"length": 5,
-	"time": 433
-}
-{
-	"length": 57,
-	"time": 583
-}
-{
-	"length": 57,
-	"time": 542
-}
-{
-	"length": 57,
-	"time": 930
-}
-{
-	"length": 57,
-	"time": 581
-}
-{
-	"length": 58,
-	"time": 622
-}
-{
-	"length": 59,
-	"time": 557
-}
-{
-	"length": 58,
-	"time": 671
-}
-{
-	"length": 61,
-	"time": 561
-}
-{
-	"length": 59,
-	"time": 548
-}
-{
-	"length": 61,
-	"time": 680
-}
-{
-	"length": 6,
-	"time": 343
-}
-{
-	"length": 60,
-	"time": 470
-}
-{
-	"length": 60,
-	"time": 595
-}
-{
-	"length": 60,
-	"time": 493
-}
-{
-	"length": 63,
-	"time": 488
-}
-{
-	"length": 61,
-	"time": 494
-}
-{
-	"length": 62,
-	"time": 804
-}
-{
-	"length": 62,
-	"time": 424
-}
-{
-	"length": 62,
-	"time": 538
-}
-{
-	"length": 62,
-	"time": 385
-}
-{
-	"length": 63,
-	"time": 495
-}
-{
-	"length": 6,
-	"time": 379
-}
-{
-	"length": 63,
-	"time": 557
-}
-{
-	"length": 64,
-	"time": 640
-}
-{
-	"length": 66,
-	"time": 547
-}
-{
-	"length": 64,
-	"time": 476
-}
-{
-	"length": 64,
-	"time": 505
-}
-{
-	"length": 65,
-	"time": 539
-}
-{
-	"length": 67,
-	"time": 599
-}
-{
-	"length": 66,
-	"time": 408
-}
-{
-	"length": 66,
-	"time": 532
-}
-{
-	"length": 66,
-	"time": 482
-}
-{
-	"length": 6,
-	"time": 659
-}
-{
-	"length": 66,
-	"time": 439
-}
-{
-	"length": 68,
-	"time": 365
-}
-{
-	"length": 68,
-	"time": 414
-}
-{
-	"length": 67,
-	"time": 443
-}
-{
-	"length": 68,
-	"time": 317
-}
-{
-	"length": 68,
-	"time": 490
-}
-{
-	"length": 68,
-	"time": 475
-}
-{
-	"length": 70,
-	"time": 459
-}
-{
-	"length": 69,
-	"time": 373
-}
-{
-	"length": 69,
-	"time": 620
-}
-{
-	"length": 7,
-	"time": 296
-}
-{
-	"length": 71,
-	"time": 380
-}
-{
-	"length": 70,
-	"time": 474
-}
-{
-	"length": 70,
-	"time": 515
-}
-{
-	"length": 72,
-	"time": 487
-}
-{
-	"length": 72,
-	"time": 491
-}
-{
-	"length": 71,
-	"time": 680
-}
-{
-	"length": 72,
-	"time": 382
-}
-{
-	"length": 72,
-	"time": 362
-}
-{
-	"length": 72,
-	"time": 364
-}
-{
-	"length": 74,
-	"time": 420
-}
-{
-	"length": 8,
-	"time": 266
-}
-{
-	"length": 73,
-	"time": 357
-}
-{
-	"length": 74,
-	"time": 475
-}
-{
-	"length": 75,
-	"time": 272
-}
-{
-	"length": 75,
-	"time": 373
-}
-{
-	"length": 74,
-	"time": 293
-}
-{
-	"length": 78,
-	"time": 379
-}
-{
-	"length": 75,
-	"time": 370
-}
-{
-	"length": 76,
-	"time": 294
-}
-{
-	"length": 77,
-	"time": 246
-}
-{
-	"length": 77,
-	"time": 365
-}
-{
-	"length": 7,
-	"time": 201
-}
-{
-	"length": 77,
-	"time": 221
-}
-{
-	"length": 78,
-	"time": 267
-}
-{
-	"length": 77,
-	"time": 385
-}
-{
-	"length": 78,
-	"time": 283
-}
-{
-	"length": 78,
-	"time": 300
-}
-{
-	"length": 78,
-	"time": 298
-}
-{
-	"length": 79,
-	"time": 405
-}
-{
-	"length": 81,
-	"time": 286
-}
-{
-	"length": 79,
-	"time": 438
-}
-{
-	"length": 82,
-	"time": 389
-}
-{
-	"length": 8,
-	"time": 417
-}
-{
-	"length": 82,
-	"time": 294
-}
-{
-	"length": 81,
-	"time": 385
-}
-{
-	"length": 83,
-	"time": 272
-}
-{
-	"length": 81,
-	"time": 403
-}
-{
-	"length": 81,
-	"time": 368
-}
-{
-	"length": 82,
-	"time": 305
-}
-{
-	"length": 82,
-	"time": 253
-}
-{
-	"length": 83,
-	"time": 328
-}
-{
-	"length": 82,
-	"time": 588
-}
-{
-	"length": 84,
-	"time": 493
-}
-{
-	"length": 8,
-	"time": 244
-}
-{
-	"length": 83,
-	"time": 472
-}
-{
-	"length": 87,
-	"time": 444
-}
-{
-	"length": 86,
-	"time": 298
-}
-{
-	"length": 85,
-	"time": 594
-}
-{
-	"length": 84,
-	"time": 280
-}
-{
-	"length": 86,
-	"time": 291
-}
-{
-	"length": 85,
-	"time": 295
-}
-{
-	"length": 86,
-	"time": 446
-}
-{
-	"length": 86,
-	"time": 486
-}
-{
-	"length": 87,
-	"time": 278
-}
-{
-	"length": 8,
-	"time": 266
-}
-{
-	"length": 87,
-	"time": 388
-}
-{
-	"length": 92,
-	"time": 381
-}
-{
-	"length": 87,
-	"time": 267
-}
-{
-	"length": 87,
-	"time": 271
-}
-{
-	"length": 89,
-	"time": 260
-}
-{
-	"length": 90,
-	"time": 252
-}
-{
-	"length": 89,
-	"time": 234
-}
-{
-	"length": 90,
-	"time": 240
-}
-{
-	"length": 92,
-	"time": 301
-}
-{
-	"length": 93,
-	"time": 241
-}
-{
-	"length": 9,
-	"time": 255
-}
-{
-	"length": 90,
-	"time": 264
-}
-{
-	"length": 91,
-	"time": 332
-}
-{
-	"length": 91,
-	"time": 371
-}
-{
-	"length": 93,
-	"time": 433
-}
-{
-	"length": 91,
-	"time": 279
-}
-{
-	"length": 91,
-	"time": 210
-}
-{
-	"length": 92,
-	"time": 327
-}
-{
-	"length": 95,
-	"time": 251
-}
-{
-	"length": 92,
-	"time": 245
-}
-{
-	"length": 93,
-	"time": 422
-}
-{
-	"length": 11,
-	"time": 305
-}
-{
-	"length": 93,
-	"time": 388
-}
-{
-	"length": 94,
-	"time": 261
-}
-{
-	"length": 96,
-	"time": 254
-}
-{
-	"length": 94,
-	"time": 300
-}
-{
-	"length": 95,
-	"time": 406
-}
-{
-	"length": 95,
-	"time": 354
-}
-{
-	"length": 96,
-	"time": 263
-}
-{
-	"length": 96,
-	"time": 299
-}
-{
-	"length": 97,
-	"time": 256
-}
-{
-	"length": 96,
-	"time": 258
-}
-{
-	"length": 9,
-	"time": 232
-}
-{
-	"length": 97,
-	"time": 386
-}
-{
-	"length": 98,
-	"time": 459
-}
-{
-	"length": 99,
-	"time": 334
-}
-{
-	"length": 97,
-	"time": 297
-}
-{
-	"length": 100,
-	"time": 269
-}
-{
-	"length": 99,
-	"time": 503
-}
-{
-	"length": 99,
-	"time": 359
-}
-{
-	"length": 99,
-	"time": 309
-}
-{
-	"length": 102,
-	"time": 274
-}
-{
-	"length": 99,
-	"time": 315
-}
-{
-	"length": 1,
-	"time": 153
-}
-{
-	"length": 10,
-	"time": 240
-}
-{
-	"length": 102,
-	"time": 245
-}
-{
-	"length": 10,
-	"time": 270
-}
-{
-	"length": 10,
-	"time": 256
-}
-{
-	"length": 11,
-	"time": 222
-}
-{
-	"length": 11,
-	"time": 286
-}
-{
-	"length": 11,
-	"time": 231
-}
-{
-	"length": 13,
-	"time": 461
-}
-{
-	"length": 12,
-	"time": 314
-}
-{
-	"length": 12,
-	"time": 294
-}
-{
-	"length": 13,
-	"time": 228
-}
-{
-	"length": 1,
-	"time": 130
-}
-{
-	"length": 13,
-	"time": 215
-}
-{
-	"length": 13,
-	"time": 342
-}
-{
-	"length": 14,
-	"time": 273
-}
-{
-	"length": 14,
-	"time": 236
-}
-{
-	"length": 14,
-	"time": 212
-}
-{
-	"length": 15,
-	"time": 260
-}
-{
-	"length": 15,
-	"time": 196
-}
-{
-	"length": 15,
-	"time": 386
-}
-{
-	"length": 16,
-	"time": 228
-}
-{
-	"length": 16,
-	"time": 231
-}
-{
-	"length": 1,
-	"time": 127
-}
-{
-	"length": 16,
-	"time": 302
-}
-{
-	"length": 18,
-	"time": 325
-}
-{
-	"length": 17,
-	"time": 226
-}
-{
-	"length": 17,
-	"time": 392
-}
-{
-	"length": 18,
-	"time": 218
-}
-{
-	"length": 19,
-	"time": 238
-}
-{
-	"length": 18,
-	"time": 345
-}
-{
-	"length": 20,
-	"time": 284
-}
-{
-	"length": 19,
-	"time": 243
-}
-{
-	"length": 19,
-	"time": 285
-}
-{
-	"length": 2,
-	"time": 341
-}
-{
-	"length": 20,
-	"time": 391
-}
-{
-	"length": 20,
-	"time": 308
-}
-{
-	"length": 20,
-	"time": 201
-}
-{
-	"length": 21,
-	"time": 311
-}
-{
-	"length": 21,
-	"time": 213
-}
-{
-	"length": 22,
-	"time": 209
-}
-{
-	"length": 24,
-	"time": 179
-}
-{
-	"length": 22,
-	"time": 194
-}
-{
-	"length": 22,
-	"time": 303
-}
-{
-	"length": 23,
-	"time": 241
-}
-{
-	"length": 2,
-	"time": 110
-}
-{
-	"length": 23,
-	"time": 291
-}
-{
-	"length": 25,
-	"time": 186
-}
-{
-	"length": 24,
-	"time": 219
-}
-{
-	"length": 24,
-	"time": 289
-}
-{
-	"length": 25,
-	"time": 229
-}
-{
-	"length": 25,
-	"time": 261
-}
-{
-	"length": 25,
-	"time": 211
-}
-{
-	"length": 25,
-	"time": 226
-}
-{
-	"length": 26,
-	"time": 316
-}
-{
-	"length": 26,
-	"time": 232
-}
-{
-	"length": 2,
-	"time": 115
-}
-{
-	"length": 27,
-	"time": 218
-}
-{
-	"length": 27,
-	"time": 205
-}
-{
-	"length": 27,
-	"time": 194
-}
-{
-	"length": 27,
-	"time": 183
-}
-{
-	"length": 28,
-	"time": 209
-}
-{
-	"length": 29,
-	"time": 231
-}
-{
-	"length": 29,
-	"time": 440
-}
-{
-	"length": 29,
-	"time": 315
-}
-{
-	"length": 31,
-	"time": 196
-}
-{
-	"length": 29,
-	"time": 446
-}
-{
-	"length": 3,
-	"time": 229
-}
-{
-	"length": 31,
-	"time": 270
-}
-{
-	"length": 30,
-	"time": 216
-}
-{
-	"length": 30,
-	"time": 215
-}
-{
-	"length": 31,
-	"time": 237
-}
-{
-	"length": 31,
-	"time": 236
-}
-{
-	"length": 31,
-	"time": 349
-}
-{
-	"length": 35,
-	"time": 260
-}
-{
-	"length": 32,
-	"time": 246
-}
-{
-	"length": 32,
-	"time": 208
-}
-{
-	"length": 33,
-	"time": 342
-}
-{
-	"length": 136,
-	"time": 1721
-}
-{
-	"length": 431,
-	"time": 2320
-}
-{
-	"length": 3441,
-	"time": 6696
-}
-{
-	"length": 3478,
-	"time": 4402
-}
-{
-	"length": 3501,
-	"time": 6867
-}
-{
-	"length": 3528,
-	"time": 3385
-}
-{
-	"length": 3570,
-	"time": 2137
-}
-{
-	"length": 3596,
-	"time": 2502
-}
-{
-	"length": 3636,
-	"time": 2041
-}
-{
-	"length": 3661,
-	"time": 1968
-}
-{
-	"length": 3693,
-	"time": 1632
-}
-{
-	"length": 3730,
-	"time": 1684
-}
-{
-	"length": 470,
-	"time": 645
-}
-{
-	"length": 3766,
-	"time": 1556
-}
-{
-	"length": 3793,
-	"time": 1292
-}
-{
-	"length": 3835,
-	"time": 2012
-}
-{
-	"length": 3874,
-	"time": 1847
-}
-{
-	"length": 3907,
-	"time": 1736
-}
-{
-	"length": 3938,
-	"time": 4279
-}
-{
-	"length": 3981,
-	"time": 1505
-}
-{
-	"length": 3996,
-	"time": 1321
-}
-{
-	"length": 4039,
-	"time": 1725
-}
-{
-	"length": 4074,
-	"time": 1415
-}
-{
-	"length": 503,
-	"time": 751
-}
-{
-	"length": 4101,
-	"time": 1370
-}
-{
-	"length": 4138,
-	"time": 968
-}
-{
-	"length": 4158,
-	"time": 1081
-}
-{
-	"length": 4198,
-	"time": 889
-}
-{
-	"length": 4224,
-	"time": 885
-}
-{
-	"length": 4257,
-	"time": 1199
-}
-{
-	"length": 4289,
-	"time": 813
-}
-{
-	"length": 4331,
-	"time": 848
-}
-{
-	"length": 4374,
-	"time": 809
-}
-{
-	"length": 4403,
-	"time": 1877
-}
-{
-	"length": 535,
-	"time": 844
-}
-{
-	"length": 4426,
-	"time": 1567
-}
-{
-	"length": 4468,
-	"time": 2515
-}
-{
-	"length": 4498,
-	"time": 1495
-}
-{
-	"length": 4520,
-	"time": 1418
-}
-{
-	"length": 4572,
-	"time": 1306
-}
-{
-	"length": 4600,
-	"time": 1667
-}
-{
-	"length": 4640,
-	"time": 1259
-}
-{
-	"length": 4666,
-	"time": 1535
-}
-{
-	"length": 4712,
-	"time": 1258
-}
-{
-	"length": 4734,
-	"time": 1100
-}
-{
-	"length": 567,
-	"time": 561
-}
-{
-	"length": 4779,
-	"time": 1103
-}
-{
-	"length": 4803,
-	"time": 1388
-}
-{
-	"length": 4844,
-	"time": 1341
-}
-{
-	"length": 4862,
-	"time": 1220
-}
-{
-	"length": 4901,
+	"length": 10400,
 	"time": 1395
 }
 {
-	"length": 4931,
-	"time": 1076
+	"length": 13140,
+	"time": 1708
 }
 {
-	"length": 4959,
-	"time": 1340
+	"length": 40399,
+	"time": 4936
 }
 {
-	"length": 4992,
-	"time": 1653
+	"length": 40702,
+	"time": 5186
 }
 {
-	"length": 5038,
-	"time": 1431
+	"length": 41006,
+	"time": 5128
 }
 {
-	"length": 5065,
-	"time": 2018
+	"length": 41309,
+	"time": 5021
 }
 {
-	"length": 599,
-	"time": 352
+	"length": 41609,
+	"time": 5131
 }
 {
-	"length": 5104,
-	"time": 1723
+	"length": 41933,
+	"time": 5043
 }
 {
-	"length": 5141,
-	"time": 1532
+	"length": 42209,
+	"time": 5100
 }
 {
-	"length": 5162,
-	"time": 2162
+	"length": 42531,
+	"time": 5032
 }
 {
-	"length": 5195,
-	"time": 1661
+	"length": 42811,
+	"time": 4995
 }
 {
-	"length": 5231,
-	"time": 1696
+	"length": 43131,
+	"time": 5131
 }
 {
-	"length": 5274,
-	"time": 1520
+	"length": 13423,
+	"time": 1824
 }
 {
-	"length": 5304,
-	"time": 1461
+	"length": 43409,
+	"time": 5275
 }
 {
-	"length": 5325,
-	"time": 1251
+	"length": 43725,
+	"time": 5232
 }
 {
-	"length": 5380,
-	"time": 1286
+	"length": 44036,
+	"time": 5211
 }
 {
-	"length": 5398,
-	"time": 1422
+	"length": 44364,
+	"time": 5147
 }
 {
-	"length": 638,
-	"time": 497
+	"length": 44657,
+	"time": 5256
 }
 {
-	"length": 5426,
-	"time": 1253
+	"length": 44964,
+	"time": 5638
 }
 {
-	"length": 5475,
-	"time": 1309
+	"length": 45229,
+	"time": 5279
 }
 {
-	"length": 5495,
-	"time": 1319
+	"length": 45581,
+	"time": 5652
 }
 {
-	"length": 5531,
-	"time": 1577
+	"length": 45861,
+	"time": 6897
 }
 {
-	"length": 5565,
-	"time": 1307
+	"length": 46170,
+	"time": 8688
 }
 {
-	"length": 5596,
-	"time": 1648
+	"length": 13734,
+	"time": 2746
 }
 {
-	"length": 5642,
-	"time": 1445
+	"length": 46482,
+	"time": 8289
 }
 {
-	"length": 5678,
-	"time": 1613
+	"length": 46760,
+	"time": 8995
 }
 {
-	"length": 5693,
-	"time": 1425
+	"length": 47078,
+	"time": 9085
 }
 {
-	"length": 5743,
-	"time": 1627
+	"length": 47373,
+	"time": 6163
 }
 {
-	"length": 664,
-	"time": 481
+	"length": 47638,
+	"time": 5926
 }
 {
-	"length": 5776,
-	"time": 1697
+	"length": 47981,
+	"time": 5794
 }
 {
-	"length": 5802,
-	"time": 1858
+	"length": 48264,
+	"time": 5660
 }
 {
-	"length": 5842,
-	"time": 2883
+	"length": 48564,
+	"time": 5733
 }
 {
-	"length": 5869,
-	"time": 4355
+	"length": 48868,
+	"time": 5827
 }
 {
-	"length": 5899,
-	"time": 3858
+	"length": 49219,
+	"time": 5697
 }
 {
-	"length": 5929,
-	"time": 4092
+	"length": 14051,
+	"time": 1875
 }
 {
-	"length": 5970,
-	"time": 1198
+	"length": 49497,
+	"time": 5767
 }
 {
-	"length": 5987,
-	"time": 980
+	"length": 49811,
+	"time": 6174
 }
 {
-	"length": 6034,
-	"time": 1025
+	"length": 50118,
+	"time": 6255
 }
 {
-	"length": 6068,
-	"time": 1028
+	"length": 50429,
+	"time": 6583
 }
 {
-	"length": 700,
-	"time": 347
+	"length": 50723,
+	"time": 6819
 }
 {
-	"length": 6105,
-	"time": 951
+	"length": 51006,
+	"time": 6368
 }
 {
-	"length": 6137,
-	"time": 1107
+	"length": 51357,
+	"time": 6243
 }
 {
-	"length": 6163,
-	"time": 950
+	"length": 51626,
+	"time": 6229
 }
 {
-	"length": 6193,
-	"time": 1109
+	"length": 51910,
+	"time": 6306
 }
 {
-	"length": 6231,
-	"time": 1039
+	"length": 52172,
+	"time": 6941
 }
 {
-	"length": 6266,
-	"time": 4283
+	"length": 14362,
+	"time": 1895
 }
 {
-	"length": 6317,
-	"time": 1079
+	"length": 52515,
+	"time": 6320
 }
 {
-	"length": 6343,
-	"time": 1000
+	"length": 52791,
+	"time": 7492
 }
 {
-	"length": 6368,
-	"time": 1122
+	"length": 53102,
+	"time": 10113
 }
 {
-	"length": 6398,
-	"time": 1117
+	"length": 53451,
+	"time": 10492
 }
 {
-	"length": 732,
-	"time": 797
+	"length": 53731,
+	"time": 10003
 }
 {
-	"length": 6438,
-	"time": 1085
+	"length": 54053,
+	"time": 10224
 }
 {
-	"length": 6478,
-	"time": 1043
+	"length": 54354,
+	"time": 10250
 }
 {
-	"length": 6500,
-	"time": 1151
+	"length": 54621,
+	"time": 14348
 }
 {
-	"length": 6545,
-	"time": 1004
+	"length": 54925,
+	"time": 7084
 }
 {
-	"length": 6562,
-	"time": 1018
+	"length": 55231,
+	"time": 7356
 }
 {
-	"length": 6604,
-	"time": 988
+	"length": 14662,
+	"time": 2140
 }
 {
-	"length": 6632,
-	"time": 1095
+	"length": 55564,
+	"time": 7055
 }
 {
-	"length": 6655,
-	"time": 1058
+	"length": 55837,
+	"time": 6979
 }
 {
-	"length": 6694,
-	"time": 1850
+	"length": 56192,
+	"time": 7419
 }
 {
-	"length": 6734,
-	"time": 1336
+	"length": 56477,
+	"time": 6527
 }
 {
-	"length": 167,
-	"time": 294
+	"length": 56790,
+	"time": 7220
 }
 {
-	"length": 765,
-	"time": 347
+	"length": 57098,
+	"time": 6661
 }
 {
-	"length": 6779,
-	"time": 1176
+	"length": 57385,
+	"time": 6983
 }
 {
-	"length": 6808,
-	"time": 1179
+	"length": 57715,
+	"time": 6714
 }
 {
-	"length": 6832,
-	"time": 1041
+	"length": 57997,
+	"time": 6782
 }
 {
-	"length": 6862,
-	"time": 1229
+	"length": 58338,
+	"time": 7222
 }
 {
-	"length": 6906,
-	"time": 1102
+	"length": 14918,
+	"time": 2024
 }
 {
-	"length": 6930,
-	"time": 1050
+	"length": 58530,
+	"time": 7254
 }
 {
-	"length": 6957,
-	"time": 1133
+	"length": 58898,
+	"time": 7330
 }
 {
-	"length": 7006,
-	"time": 1009
+	"length": 59237,
+	"time": 7607
 }
 {
-	"length": 7019,
-	"time": 1046
+	"length": 59536,
+	"time": 7255
 }
 {
-	"length": 7061,
-	"time": 1138
+	"length": 59774,
+	"time": 7161
 }
 {
-	"length": 800,
-	"time": 323
+	"length": 60112,
+	"time": 7320
 }
 {
-	"length": 7097,
-	"time": 1077
+	"length": 60368,
+	"time": 7237
 }
 {
-	"length": 7129,
-	"time": 1190
+	"length": 60732,
+	"time": 7098
 }
 {
-	"length": 7164,
-	"time": 1122
+	"length": 60988,
+	"time": 7117
 }
 {
-	"length": 7200,
-	"time": 1394
+	"length": 61273,
+	"time": 11285
 }
 {
-	"length": 7221,
-	"time": 1073
+	"length": 15235,
+	"time": 1924
 }
 {
-	"length": 7282,
-	"time": 1167
+	"length": 61584,
+	"time": 7422
 }
 {
-	"length": 7303,
-	"time": 1142
+	"length": 61913,
+	"time": 7476
 }
 {
-	"length": 7327,
-	"time": 1225
+	"length": 62223,
+	"time": 7400
 }
 {
-	"length": 7357,
-	"time": 1091
+	"length": 62525,
+	"time": 7870
 }
 {
-	"length": 7400,
-	"time": 1346
+	"length": 62805,
+	"time": 7893
 }
 {
-	"length": 832,
-	"time": 475
+	"length": 63100,
+	"time": 7640
 }
 {
-	"length": 7432,
-	"time": 1113
+	"length": 63385,
+	"time": 7977
 }
 {
-	"length": 7470,
-	"time": 1309
+	"length": 63707,
+	"time": 7686
 }
 {
-	"length": 7506,
-	"time": 1085
+	"length": 64015,
+	"time": 8347
 }
 {
-	"length": 7534,
-	"time": 1251
+	"length": 64301,
+	"time": 7394
 }
 {
-	"length": 7567,
-	"time": 1153
+	"length": 15558,
+	"time": 2051
 }
 {
-	"length": 7597,
-	"time": 1205
+	"length": 64673,
+	"time": 7436
 }
 {
-	"length": 7627,
-	"time": 1136
+	"length": 64926,
+	"time": 7539
 }
 {
-	"length": 7649,
-	"time": 1251
+	"length": 65258,
+	"time": 7416
 }
 {
-	"length": 7685,
-	"time": 1095
+	"length": 65533,
+	"time": 7724
 }
 {
-	"length": 7729,
-	"time": 1092
+	"length": 65861,
+	"time": 7900
 }
 {
-	"length": 872,
-	"time": 436
+	"length": 66173,
+	"time": 7984
 }
 {
-	"length": 7758,
-	"time": 1255
+	"length": 66468,
+	"time": 8899
 }
 {
-	"length": 7803,
-	"time": 1110
+	"length": 66739,
+	"time": 8331
 }
 {
-	"length": 7832,
-	"time": 1155
+	"length": 67008,
+	"time": 8265
 }
 {
-	"length": 7860,
-	"time": 1114
+	"length": 67328,
+	"time": 12651
 }
 {
-	"length": 7893,
-	"time": 1202
+	"length": 15875,
+	"time": 3099
 }
 {
-	"length": 7953,
-	"time": 1249
+	"length": 67617,
+	"time": 12236
 }
 {
-	"length": 7954,
-	"time": 1158
+	"length": 67947,
+	"time": 13477
 }
 {
-	"length": 7998,
-	"time": 1204
+	"length": 68249,
+	"time": 8653
 }
 {
-	"length": 8024,
-	"time": 1582
+	"length": 68559,
+	"time": 8178
 }
 {
-	"length": 8077,
-	"time": 1155
+	"length": 68886,
+	"time": 7991
 }
 {
-	"length": 897,
-	"time": 407
+	"length": 69234,
+	"time": 7902
 }
 {
-	"length": 8115,
-	"time": 1190
+	"length": 69482,
+	"time": 8806
 }
 {
-	"length": 8144,
-	"time": 1441
+	"length": 69782,
+	"time": 8600
 }
 {
-	"length": 8163,
-	"time": 1310
+	"length": 70092,
+	"time": 8935
 }
 {
-	"length": 8193,
-	"time": 1222
+	"length": 70410,
+	"time": 9094
 }
 {
-	"length": 8239,
-	"time": 1229
+	"length": 10717,
+	"time": 1604
 }
 {
-	"length": 8270,
-	"time": 1176
+	"length": 16166,
+	"time": 2328
 }
 {
-	"length": 8306,
-	"time": 1345
+	"length": 70738,
+	"time": 8588
 }
 {
-	"length": 8323,
-	"time": 1099
+	"length": 70986,
+	"time": 8225
 }
 {
-	"length": 8364,
-	"time": 1212
+	"length": 71363,
+	"time": 8250
 }
 {
-	"length": 8409,
-	"time": 1228
+	"length": 71588,
+	"time": 8347
 }
 {
-	"length": 931,
-	"time": 382
+	"length": 71932,
+	"time": 9510
 }
 {
-	"length": 8417,
-	"time": 1199
+	"length": 72207,
+	"time": 8632
 }
 {
-	"length": 8467,
-	"time": 1982
+	"length": 72503,
+	"time": 8844
 }
 {
-	"length": 8487,
-	"time": 1201
+	"length": 72839,
+	"time": 8581
 }
 {
-	"length": 8530,
-	"time": 1176
+	"length": 73158,
+	"time": 8899
 }
 {
-	"length": 8576,
-	"time": 1577
+	"length": 73429,
+	"time": 8884
 }
 {
-	"length": 8591,
-	"time": 1266
+	"length": 16461,
+	"time": 2089
 }
 {
-	"length": 8630,
-	"time": 1352
+	"length": 73679,
+	"time": 8495
 }
 {
-	"length": 8661,
-	"time": 1217
+	"length": 74095,
+	"time": 8409
 }
 {
-	"length": 8690,
-	"time": 3360
+	"length": 74293,
+	"time": 8649
 }
 {
-	"length": 8729,
-	"time": 1258
+	"length": 74656,
+	"time": 8913
 }
 {
-	"length": 972,
-	"time": 516
+	"length": 74991,
+	"time": 9054
 }
 {
-	"length": 8790,
-	"time": 1196
+	"length": 75227,
+	"time": 9175
 }
 {
-	"length": 8795,
-	"time": 1323
+	"length": 75545,
+	"time": 8881
 }
 {
-	"length": 8824,
-	"time": 1271
+	"length": 75810,
+	"time": 9174
 }
 {
-	"length": 8866,
-	"time": 1210
+	"length": 76213,
+	"time": 9073
 }
 {
-	"length": 8890,
-	"time": 1199
+	"length": 76454,
+	"time": 9048
 }
 {
-	"length": 8929,
-	"time": 1286
+	"length": 16773,
+	"time": 2381
 }
 {
-	"length": 8968,
-	"time": 1231
+	"length": 76775,
+	"time": 9124
 }
 {
-	"length": 9004,
-	"time": 1388
+	"length": 77077,
+	"time": 8806
 }
 {
-	"length": 9026,
-	"time": 1225
+	"length": 77342,
+	"time": 9121
 }
 {
-	"length": 9063,
-	"time": 1491
+	"length": 77616,
+	"time": 14257
 }
 {
-	"length": 1007,
-	"time": 452
+	"length": 77979,
+	"time": 10394
 }
 {
-	"length": 9101,
+	"length": 78301,
+	"time": 14131
+}
+{
+	"length": 78525,
+	"time": 9577
+}
+{
+	"length": 78876,
+	"time": 9411
+}
+{
+	"length": 79169,
+	"time": 9364
+}
+{
+	"length": 79470,
+	"time": 9550
+}
+{
+	"length": 17092,
+	"time": 2175
+}
+{
+	"length": 79768,
+	"time": 9011
+}
+{
+	"length": 80103,
+	"time": 9698
+}
+{
+	"length": 80405,
+	"time": 9279
+}
+{
+	"length": 80764,
+	"time": 9259
+}
+{
+	"length": 81064,
+	"time": 9350
+}
+{
+	"length": 81307,
+	"time": 9841
+}
+{
+	"length": 81633,
+	"time": 9717
+}
+{
+	"length": 81910,
+	"time": 9718
+}
+{
+	"length": 82196,
+	"time": 10112
+}
+{
+	"length": 82489,
+	"time": 9843
+}
+{
+	"length": 17374,
+	"time": 2481
+}
+{
+	"length": 82807,
+	"time": 9867
+}
+{
+	"length": 83109,
+	"time": 9463
+}
+{
+	"length": 83452,
+	"time": 9445
+}
+{
+	"length": 83744,
+	"time": 9309
+}
+{
+	"length": 83994,
+	"time": 9451
+}
+{
+	"length": 84362,
+	"time": 10042
+}
+{
+	"length": 84607,
+	"time": 10018
+}
+{
+	"length": 84972,
+	"time": 11146
+}
+{
+	"length": 85270,
+	"time": 10541
+}
+{
+	"length": 85553,
+	"time": 11023
+}
+{
+	"length": 17695,
+	"time": 2294
+}
+{
+	"length": 85839,
+	"time": 10398
+}
+{
+	"length": 86123,
+	"time": 9704
+}
+{
+	"length": 86489,
+	"time": 9695
+}
+{
+	"length": 86748,
+	"time": 15141
+}
+{
+	"length": 87031,
+	"time": 15274
+}
+{
+	"length": 87348,
+	"time": 15285
+}
+{
+	"length": 87691,
+	"time": 15656
+}
+{
+	"length": 87954,
+	"time": 16279
+}
+{
+	"length": 88239,
+	"time": 15021
+}
+{
+	"length": 88567,
+	"time": 15085
+}
+{
+	"length": 17994,
+	"time": 3274
+}
+{
+	"length": 88869,
+	"time": 15225
+}
+{
+	"length": 89202,
+	"time": 16517
+}
+{
+	"length": 89474,
+	"time": 18261
+}
+{
+	"length": 89811,
+	"time": 18940
+}
+{
+	"length": 90156,
+	"time": 23564
+}
+{
+	"length": 90408,
+	"time": 12429
+}
+{
+	"length": 90653,
+	"time": 11004
+}
+{
+	"length": 91028,
+	"time": 10977
+}
+{
+	"length": 91330,
+	"time": 12264
+}
+{
+	"length": 91573,
+	"time": 11941
+}
+{
+	"length": 18276,
+	"time": 2461
+}
+{
+	"length": 91916,
+	"time": 12244
+}
+{
+	"length": 92226,
+	"time": 11941
+}
+{
+	"length": 92547,
+	"time": 11281
+}
+{
+	"length": 92811,
+	"time": 11772
+}
+{
+	"length": 93079,
+	"time": 11319
+}
+{
+	"length": 93383,
+	"time": 11885
+}
+{
+	"length": 93731,
+	"time": 11287
+}
+{
+	"length": 94031,
+	"time": 12292
+}
+{
+	"length": 94370,
+	"time": 11301
+}
+{
+	"length": 94670,
+	"time": 11914
+}
+{
+	"length": 18586,
+	"time": 2479
+}
+{
+	"length": 94883,
+	"time": 11177
+}
+{
+	"length": 95227,
+	"time": 11332
+}
+{
+	"length": 95535,
+	"time": 11493
+}
+{
+	"length": 95821,
+	"time": 11441
+}
+{
+	"length": 96191,
+	"time": 11021
+}
+{
+	"length": 96447,
+	"time": 11009
+}
+{
+	"length": 96763,
+	"time": 11137
+}
+{
+	"length": 97053,
+	"time": 11196
+}
+{
+	"length": 97322,
+	"time": 12942
+}
+{
+	"length": 97654,
+	"time": 11593
+}
+{
+	"length": 18881,
+	"time": 2376
+}
+{
+	"length": 97959,
+	"time": 11529
+}
+{
+	"length": 98257,
+	"time": 11019
+}
+{
+	"length": 98560,
+	"time": 10926
+}
+{
+	"length": 98836,
+	"time": 10992
+}
+{
+	"length": 99143,
+	"time": 10924
+}
+{
+	"length": 99510,
+	"time": 11382
+}
+{
+	"length": 99778,
+	"time": 12832
+}
+{
+	"length": 100128,
+	"time": 11654
+}
+{
+	"length": 100419,
+	"time": 11438
+}
+{
+	"length": 100711,
+	"time": 17453
+}
+{
+	"length": 11016,
+	"time": 2163
+}
+{
+	"length": 19186,
+	"time": 2605
+}
+{
+	"length": 100992,
+	"time": 27297
+}
+{
+	"length": 19510,
+	"time": 4786
+}
+{
+	"length": 19795,
+	"time": 3229
+}
+{
+	"length": 20095,
+	"time": 2581
+}
+{
+	"length": 20412,
+	"time": 2637
+}
+{
+	"length": 20690,
+	"time": 2611
+}
+{
+	"length": 21016,
+	"time": 2593
+}
+{
+	"length": 21323,
+	"time": 2588
+}
+{
+	"length": 21634,
+	"time": 2703
+}
+{
+	"length": 21900,
+	"time": 2859
+}
+{
+	"length": 11332,
 	"time": 1596
 }
 {
-	"length": 9144,
-	"time": 1646
+	"length": 22204,
+	"time": 4764
 }
 {
-	"length": 9166,
-	"time": 1836
+	"length": 22507,
+	"time": 5592
 }
 {
-	"length": 9197,
-	"time": 1441
+	"length": 22831,
+	"time": 3007
 }
 {
-	"length": 9253,
-	"time": 1459
+	"length": 23143,
+	"time": 3056
 }
 {
-	"length": 9264,
-	"time": 1273
+	"length": 23433,
+	"time": 3263
 }
 {
-	"length": 9289,
-	"time": 1673
+	"length": 23726,
+	"time": 3145
 }
 {
-	"length": 9332,
-	"time": 1298
+	"length": 24016,
+	"time": 3372
 }
 {
-	"length": 9358,
-	"time": 1262
+	"length": 24380,
+	"time": 3128
 }
 {
-	"length": 9398,
-	"time": 1438
+	"length": 24628,
+	"time": 3554
 }
 {
-	"length": 1035,
-	"time": 336
+	"length": 24956,
+	"time": 3329
 }
 {
-	"length": 9443,
-	"time": 1233
+	"length": 11624,
+	"time": 7476
 }
 {
-	"length": 9469,
-	"time": 1259
+	"length": 25241,
+	"time": 3417
 }
 {
-	"length": 9503,
-	"time": 1225
+	"length": 25585,
+	"time": 3381
 }
 {
-	"length": 9533,
-	"time": 1528
+	"length": 25870,
+	"time": 3348
 }
 {
-	"length": 9571,
-	"time": 1321
+	"length": 26159,
+	"time": 11018
 }
 {
-	"length": 9598,
-	"time": 1566
+	"length": 26428,
+	"time": 5381
 }
 {
-	"length": 9632,
-	"time": 1517
+	"length": 26794,
+	"time": 4612
 }
 {
-	"length": 9655,
-	"time": 1349
+	"length": 27061,
+	"time": 7309
 }
 {
-	"length": 9725,
-	"time": 1716
+	"length": 27359,
+	"time": 4834
 }
 {
-	"length": 9737,
-	"time": 1365
+	"length": 27673,
+	"time": 4983
 }
 {
-	"length": 1067,
-	"time": 425
+	"length": 28007,
+	"time": 5715
 }
 {
-	"length": 9772,
-	"time": 1330
+	"length": 11937,
+	"time": 6960
 }
 {
-	"length": 9804,
-	"time": 1586
+	"length": 28257,
+	"time": 6544
 }
 {
-	"length": 9833,
-	"time": 1309
+	"length": 28585,
+	"time": 5129
 }
 {
-	"length": 9872,
-	"time": 1368
+	"length": 28884,
+	"time": 8656
 }
 {
-	"length": 9901,
-	"time": 1366
+	"length": 29214,
+	"time": 5393
 }
 {
-	"length": 9951,
-	"time": 1332
+	"length": 29486,
+	"time": 9371
 }
 {
-	"length": 9958,
-	"time": 1358
+	"length": 29825,
+	"time": 5773
 }
 {
-	"length": 10000,
-	"time": 1310
+	"length": 30097,
+	"time": 5321
 }
 {
-	"length": 10019,
-	"time": 1388
+	"length": 30382,
+	"time": 5510
 }
 {
-	"length": 10049,
-	"time": 1348
+	"length": 30690,
+	"time": 5859
 }
 {
-	"length": 201,
-	"time": 260
+	"length": 31005,
+	"time": 5851
 }
 {
-	"length": 1099,
-	"time": 552
+	"length": 12199,
+	"time": 2459
 }
 {
-	"length": 10101,
-	"time": 1596
+	"length": 31360,
+	"time": 9251
 }
 {
-	"length": 1134,
-	"time": 554
+	"length": 31621,
+	"time": 5928
 }
 {
-	"length": 1163,
-	"time": 476
+	"length": 31896,
+	"time": 6326
 }
 {
-	"length": 1201,
-	"time": 341
+	"length": 32228,
+	"time": 6848
 }
 {
-	"length": 1234,
-	"time": 381
+	"length": 32544,
+	"time": 5938
 }
 {
-	"length": 1268,
-	"time": 393
+	"length": 32830,
+	"time": 5832
 }
 {
-	"length": 1299,
-	"time": 575
+	"length": 33124,
+	"time": 6313
 }
 {
-	"length": 1336,
-	"time": 526
+	"length": 33438,
+	"time": 6569
 }
 {
-	"length": 1364,
-	"time": 382
+	"length": 33729,
+	"time": 12243
 }
 {
-	"length": 1400,
-	"time": 372
+	"length": 34053,
+	"time": 6897
 }
 {
-	"length": 233,
-	"time": 505
+	"length": 12529,
+	"time": 2498
 }
 {
-	"length": 1441,
-	"time": 614
+	"length": 34339,
+	"time": 6002
 }
 {
-	"length": 1465,
-	"time": 403
+	"length": 34642,
+	"time": 18887
 }
 {
-	"length": 1496,
-	"time": 606
+	"length": 34937,
+	"time": 12048
 }
 {
-	"length": 1528,
-	"time": 366
+	"length": 35213,
+	"time": 22092
 }
 {
-	"length": 1565,
-	"time": 374
+	"length": 35568,
+	"time": 6048
 }
 {
-	"length": 1592,
-	"time": 381
+	"length": 35854,
+	"time": 16997
 }
 {
-	"length": 1629,
-	"time": 389
+	"length": 36111,
+	"time": 6591
 }
 {
-	"length": 1664,
-	"time": 403
+	"length": 36429,
+	"time": 15730
 }
 {
-	"length": 1705,
-	"time": 414
+	"length": 36733,
+	"time": 4989
 }
 {
-	"length": 1733,
-	"time": 728
+	"length": 37066,
+	"time": 5011
 }
 {
-	"length": 269,
-	"time": 362
+	"length": 12827,
+	"time": 2488
 }
 {
-	"length": 1763,
-	"time": 436
+	"length": 37384,
+	"time": 4894
 }
 {
-	"length": 1799,
-	"time": 382
+	"length": 37674,
+	"time": 4942
 }
 {
-	"length": 1839,
-	"time": 439
+	"length": 37975,
+	"time": 4988
 }
 {
-	"length": 1868,
-	"time": 392
+	"length": 38275,
+	"time": 17125
 }
 {
-	"length": 1902,
-	"time": 641
+	"length": 38577,
+	"time": 5291
 }
 {
-	"length": 1929,
-	"time": 456
+	"length": 38857,
+	"time": 20112
 }
 {
-	"length": 1974,
-	"time": 597
+	"length": 39210,
+	"time": 5738
 }
 {
-	"length": 2005,
-	"time": 531
+	"length": 39531,
+	"time": 8346
 }
 {
-	"length": 2036,
-	"time": 534
+	"length": 39781,
+	"time": 5619
 }
 {
-	"length": 2073,
-	"time": 717
+	"length": 40086,
+	"time": 8836
 }
 {
-	"length": 299,
-	"time": 522
+	"length": 136,
+	"time": 128
 }
 {
-	"length": 2106,
-	"time": 730
+	"length": 431,
+	"time": 182
 }
 {
-	"length": 2131,
-	"time": 523
+	"length": 3441,
+	"time": 931
 }
 {
-	"length": 2171,
-	"time": 513
+	"length": 3478,
+	"time": 555
 }
 {
-	"length": 2205,
-	"time": 806
+	"length": 3501,
+	"time": 648
 }
 {
-	"length": 2228,
-	"time": 417
+	"length": 3528,
+	"time": 540
 }
 {
-	"length": 2264,
-	"time": 677
+	"length": 3570,
+	"time": 584
 }
 {
-	"length": 2301,
-	"time": 489
+	"length": 3596,
+	"time": 525
 }
 {
-	"length": 2339,
+	"length": 3636,
 	"time": 549
 }
 {
+	"length": 3661,
+	"time": 519
+}
+{
+	"length": 3693,
+	"time": 576
+}
+{
+	"length": 3730,
+	"time": 664
+}
+{
+	"length": 470,
+	"time": 232
+}
+{
+	"length": 3766,
+	"time": 695
+}
+{
+	"length": 3793,
+	"time": 618
+}
+{
+	"length": 3835,
+	"time": 551
+}
+{
+	"length": 3874,
+	"time": 554
+}
+{
+	"length": 3907,
+	"time": 655
+}
+{
+	"length": 3938,
+	"time": 579
+}
+{
+	"length": 3981,
+	"time": 689
+}
+{
+	"length": 3996,
+	"time": 652
+}
+{
+	"length": 4039,
+	"time": 940
+}
+{
+	"length": 4074,
+	"time": 590
+}
+{
+	"length": 503,
+	"time": 214
+}
+{
+	"length": 4101,
+	"time": 580
+}
+{
+	"length": 4138,
+	"time": 583
+}
+{
+	"length": 4158,
+	"time": 613
+}
+{
+	"length": 4198,
+	"time": 789
+}
+{
+	"length": 4224,
+	"time": 650
+}
+{
+	"length": 4257,
+	"time": 765
+}
+{
+	"length": 4289,
+	"time": 658
+}
+{
+	"length": 4331,
+	"time": 639
+}
+{
+	"length": 4374,
+	"time": 673
+}
+{
+	"length": 4403,
+	"time": 804
+}
+{
+	"length": 535,
+	"time": 199
+}
+{
+	"length": 4426,
+	"time": 639
+}
+{
+	"length": 4468,
+	"time": 678
+}
+{
+	"length": 4498,
+	"time": 664
+}
+{
+	"length": 4520,
+	"time": 649
+}
+{
+	"length": 4572,
+	"time": 631
+}
+{
+	"length": 4600,
+	"time": 698
+}
+{
+	"length": 4640,
+	"time": 626
+}
+{
+	"length": 4666,
+	"time": 665
+}
+{
+	"length": 4712,
+	"time": 687
+}
+{
+	"length": 4734,
+	"time": 671
+}
+{
+	"length": 567,
+	"time": 187
+}
+{
+	"length": 4779,
+	"time": 678
+}
+{
+	"length": 4803,
+	"time": 757
+}
+{
+	"length": 4844,
+	"time": 633
+}
+{
+	"length": 4862,
+	"time": 749
+}
+{
+	"length": 4901,
+	"time": 648
+}
+{
+	"length": 4931,
+	"time": 673
+}
+{
+	"length": 4959,
+	"time": 748
+}
+{
+	"length": 4992,
+	"time": 733
+}
+{
+	"length": 5038,
+	"time": 661
+}
+{
+	"length": 5065,
+	"time": 854
+}
+{
+	"length": 599,
+	"time": 440
+}
+{
+	"length": 5104,
+	"time": 714
+}
+{
+	"length": 5141,
+	"time": 730
+}
+{
+	"length": 5162,
+	"time": 698
+}
+{
+	"length": 5195,
+	"time": 728
+}
+{
+	"length": 5231,
+	"time": 770
+}
+{
+	"length": 5274,
+	"time": 720
+}
+{
+	"length": 5304,
+	"time": 752
+}
+{
+	"length": 5325,
+	"time": 733
+}
+{
+	"length": 5380,
+	"time": 766
+}
+{
+	"length": 5398,
+	"time": 782
+}
+{
+	"length": 638,
+	"time": 353
+}
+{
+	"length": 5426,
+	"time": 722
+}
+{
+	"length": 5475,
+	"time": 715
+}
+{
+	"length": 5495,
+	"time": 987
+}
+{
+	"length": 5531,
+	"time": 850
+}
+{
+	"length": 5565,
+	"time": 781
+}
+{
+	"length": 5596,
+	"time": 827
+}
+{
+	"length": 5642,
+	"time": 939
+}
+{
+	"length": 5678,
+	"time": 1388
+}
+{
+	"length": 5693,
+	"time": 1006
+}
+{
+	"length": 5743,
+	"time": 998
+}
+{
+	"length": 664,
+	"time": 260
+}
+{
+	"length": 5776,
+	"time": 969
+}
+{
+	"length": 5802,
+	"time": 873
+}
+{
+	"length": 5842,
+	"time": 773
+}
+{
+	"length": 5869,
+	"time": 951
+}
+{
+	"length": 5899,
+	"time": 901
+}
+{
+	"length": 5929,
+	"time": 808
+}
+{
+	"length": 5970,
+	"time": 790
+}
+{
+	"length": 5987,
+	"time": 947
+}
+{
+	"length": 6034,
+	"time": 970
+}
+{
+	"length": 6068,
+	"time": 1060
+}
+{
+	"length": 700,
+	"time": 310
+}
+{
+	"length": 6105,
+	"time": 928
+}
+{
+	"length": 6137,
+	"time": 861
+}
+{
+	"length": 6163,
+	"time": 922
+}
+{
+	"length": 6193,
+	"time": 883
+}
+{
+	"length": 6231,
+	"time": 1277
+}
+{
+	"length": 6266,
+	"time": 973
+}
+{
+	"length": 6317,
+	"time": 1092
+}
+{
+	"length": 6343,
+	"time": 924
+}
+{
+	"length": 6368,
+	"time": 890
+}
+{
+	"length": 6398,
+	"time": 835
+}
+{
+	"length": 732,
+	"time": 280
+}
+{
+	"length": 6438,
+	"time": 1091
+}
+{
+	"length": 6478,
+	"time": 899
+}
+{
+	"length": 6500,
+	"time": 900
+}
+{
+	"length": 6545,
+	"time": 931
+}
+{
+	"length": 6562,
+	"time": 959
+}
+{
+	"length": 6604,
+	"time": 909
+}
+{
+	"length": 6632,
+	"time": 969
+}
+{
+	"length": 6655,
+	"time": 934
+}
+{
+	"length": 6694,
+	"time": 882
+}
+{
+	"length": 6734,
+	"time": 1414
+}
+{
+	"length": 167,
+	"time": 117
+}
+{
+	"length": 765,
+	"time": 366
+}
+{
+	"length": 6779,
+	"time": 1014
+}
+{
+	"length": 6808,
+	"time": 910
+}
+{
+	"length": 6832,
+	"time": 875
+}
+{
+	"length": 6862,
+	"time": 914
+}
+{
+	"length": 6906,
+	"time": 1117
+}
+{
+	"length": 6930,
+	"time": 904
+}
+{
+	"length": 6957,
+	"time": 1495
+}
+{
+	"length": 7006,
+	"time": 941
+}
+{
+	"length": 7019,
+	"time": 912
+}
+{
+	"length": 7061,
+	"time": 881
+}
+{
+	"length": 800,
+	"time": 307
+}
+{
+	"length": 7097,
+	"time": 932
+}
+{
+	"length": 7129,
+	"time": 880
+}
+{
+	"length": 7164,
+	"time": 1031
+}
+{
+	"length": 7200,
+	"time": 944
+}
+{
+	"length": 7221,
+	"time": 969
+}
+{
+	"length": 7282,
+	"time": 1233
+}
+{
+	"length": 7303,
+	"time": 975
+}
+{
+	"length": 7327,
+	"time": 919
+}
+{
+	"length": 7357,
+	"time": 938
+}
+{
+	"length": 7400,
+	"time": 1259
+}
+{
+	"length": 832,
+	"time": 407
+}
+{
+	"length": 7432,
+	"time": 1076
+}
+{
+	"length": 7470,
+	"time": 994
+}
+{
+	"length": 7506,
+	"time": 965
+}
+{
+	"length": 7534,
+	"time": 991
+}
+{
+	"length": 7567,
+	"time": 1035
+}
+{
+	"length": 7597,
+	"time": 1166
+}
+{
+	"length": 7627,
+	"time": 992
+}
+{
+	"length": 7649,
+	"time": 975
+}
+{
+	"length": 7685,
+	"time": 956
+}
+{
+	"length": 7729,
+	"time": 1236
+}
+{
+	"length": 872,
+	"time": 398
+}
+{
+	"length": 7758,
+	"time": 1015
+}
+{
+	"length": 7803,
+	"time": 991
+}
+{
+	"length": 7832,
+	"time": 1228
+}
+{
+	"length": 7860,
+	"time": 1006
+}
+{
+	"length": 7893,
+	"time": 1334
+}
+{
+	"length": 7953,
+	"time": 1021
+}
+{
+	"length": 7954,
+	"time": 1135
+}
+{
+	"length": 7998,
+	"time": 1083
+}
+{
+	"length": 8024,
+	"time": 1056
+}
+{
+	"length": 8077,
+	"time": 1231
+}
+{
+	"length": 897,
+	"time": 306
+}
+{
+	"length": 8115,
+	"time": 1171
+}
+{
+	"length": 8144,
+	"time": 1052
+}
+{
+	"length": 8163,
+	"time": 1066
+}
+{
+	"length": 8193,
+	"time": 1065
+}
+{
+	"length": 8239,
+	"time": 1041
+}
+{
+	"length": 8270,
+	"time": 1568
+}
+{
+	"length": 8306,
+	"time": 1197
+}
+{
+	"length": 8323,
+	"time": 1067
+}
+{
+	"length": 8364,
+	"time": 1135
+}
+{
+	"length": 8409,
+	"time": 1155
+}
+{
+	"length": 931,
+	"time": 308
+}
+{
+	"length": 8417,
+	"time": 1410
+}
+{
+	"length": 8467,
+	"time": 1085
+}
+{
+	"length": 8487,
+	"time": 1112
+}
+{
+	"length": 8530,
+	"time": 1092
+}
+{
+	"length": 8576,
+	"time": 1582
+}
+{
+	"length": 8591,
+	"time": 1261
+}
+{
+	"length": 8630,
+	"time": 1088
+}
+{
+	"length": 8661,
+	"time": 1232
+}
+{
+	"length": 8690,
+	"time": 1161
+}
+{
+	"length": 8729,
+	"time": 1216
+}
+{
+	"length": 972,
+	"time": 307
+}
+{
+	"length": 8790,
+	"time": 1160
+}
+{
+	"length": 8795,
+	"time": 1203
+}
+{
+	"length": 8824,
+	"time": 1097
+}
+{
+	"length": 8866,
+	"time": 1597
+}
+{
+	"length": 8890,
+	"time": 1228
+}
+{
+	"length": 8929,
+	"time": 1215
+}
+{
+	"length": 8968,
+	"time": 1182
+}
+{
+	"length": 9004,
+	"time": 1380
+}
+{
+	"length": 9026,
+	"time": 1364
+}
+{
+	"length": 9063,
+	"time": 1424
+}
+{
+	"length": 1007,
+	"time": 265
+}
+{
+	"length": 9101,
+	"time": 1163
+}
+{
+	"length": 9144,
+	"time": 1267
+}
+{
+	"length": 9166,
+	"time": 1378
+}
+{
+	"length": 9197,
+	"time": 1381
+}
+{
+	"length": 9253,
+	"time": 1276
+}
+{
+	"length": 9264,
+	"time": 1199
+}
+{
+	"length": 9289,
+	"time": 1238
+}
+{
+	"length": 9332,
+	"time": 1456
+}
+{
+	"length": 9358,
+	"time": 1244
+}
+{
+	"length": 9398,
+	"time": 1305
+}
+{
+	"length": 1035,
+	"time": 239
+}
+{
+	"length": 9443,
+	"time": 1338
+}
+{
+	"length": 9469,
+	"time": 1179
+}
+{
+	"length": 9503,
+	"time": 1218
+}
+{
+	"length": 9533,
+	"time": 1207
+}
+{
+	"length": 9571,
+	"time": 1240
+}
+{
+	"length": 9598,
+	"time": 1242
+}
+{
+	"length": 9632,
+	"time": 1231
+}
+{
+	"length": 9655,
+	"time": 1587
+}
+{
+	"length": 9725,
+	"time": 2504
+}
+{
+	"length": 9737,
+	"time": 1168
+}
+{
+	"length": 1067,
+	"time": 428
+}
+{
+	"length": 9772,
+	"time": 1272
+}
+{
+	"length": 9804,
+	"time": 1209
+}
+{
+	"length": 9833,
+	"time": 1246
+}
+{
+	"length": 9872,
+	"time": 1254
+}
+{
+	"length": 9901,
+	"time": 1311
+}
+{
+	"length": 9951,
+	"time": 1337
+}
+{
+	"length": 9958,
+	"time": 1268
+}
+{
+	"length": 10000,
+	"time": 1322
+}
+{
+	"length": 10019,
+	"time": 1386
+}
+{
+	"length": 10049,
+	"time": 1328
+}
+{
+	"length": 201,
+	"time": 134
+}
+{
+	"length": 1099,
+	"time": 330
+}
+{
+	"length": 10101,
+	"time": 1733
+}
+{
+	"length": 1134,
+	"time": 338
+}
+{
+	"length": 1163,
+	"time": 486
+}
+{
+	"length": 1201,
+	"time": 337
+}
+{
+	"length": 1234,
+	"time": 311
+}
+{
+	"length": 1268,
+	"time": 324
+}
+{
+	"length": 1299,
+	"time": 342
+}
+{
+	"length": 1336,
+	"time": 259
+}
+{
+	"length": 1364,
+	"time": 345
+}
+{
+	"length": 1400,
+	"time": 255
+}
+{
+	"length": 233,
+	"time": 118
+}
+{
+	"length": 1441,
+	"time": 324
+}
+{
+	"length": 1465,
+	"time": 505
+}
+{
+	"length": 1496,
+	"time": 344
+}
+{
+	"length": 1528,
+	"time": 301
+}
+{
+	"length": 1565,
+	"time": 327
+}
+{
+	"length": 1592,
+	"time": 413
+}
+{
+	"length": 1629,
+	"time": 288
+}
+{
+	"length": 1664,
+	"time": 292
+}
+{
+	"length": 1705,
+	"time": 351
+}
+{
+	"length": 1733,
+	"time": 301
+}
+{
+	"length": 269,
+	"time": 121
+}
+{
+	"length": 1763,
+	"time": 302
+}
+{
+	"length": 1799,
+	"time": 309
+}
+{
+	"length": 1839,
+	"time": 320
+}
+{
+	"length": 1868,
+	"time": 514
+}
+{
+	"length": 1902,
+	"time": 633
+}
+{
+	"length": 1929,
+	"time": 366
+}
+{
+	"length": 1974,
+	"time": 379
+}
+{
+	"length": 2005,
+	"time": 394
+}
+{
+	"length": 2036,
+	"time": 338
+}
+{
+	"length": 2073,
+	"time": 391
+}
+{
+	"length": 299,
+	"time": 146
+}
+{
+	"length": 2106,
+	"time": 363
+}
+{
+	"length": 2131,
+	"time": 642
+}
+{
+	"length": 2171,
+	"time": 344
+}
+{
+	"length": 2205,
+	"time": 494
+}
+{
+	"length": 2228,
+	"time": 461
+}
+{
+	"length": 2264,
+	"time": 435
+}
+{
+	"length": 2301,
+	"time": 498
+}
+{
+	"length": 2339,
+	"time": 385
+}
+{
 	"length": 2371,
-	"time": 454
+	"time": 386
 }
 {
 	"length": 2403,
-	"time": 630
+	"time": 457
 }
 {
 	"length": 336,
-	"time": 243
+	"time": 194
 }
 {
 	"length": 2426,
-	"time": 481
+	"time": 507
 }
 {
 	"length": 2471,
-	"time": 446
+	"time": 465
 }
 {
 	"length": 2497,
-	"time": 472
+	"time": 627
 }
 {
 	"length": 2540,
-	"time": 518
+	"time": 560
 }
 {
 	"length": 2572,
-	"time": 527
+	"time": 529
 }
 {
 	"length": 2611,
-	"time": 521
+	"time": 640
 }
 {
 	"length": 2635,
-	"time": 506
+	"time": 476
 }
 {
 	"length": 2667,
-	"time": 608
+	"time": 485
 }
 {
 	"length": 2704,
-	"time": 503
+	"time": 506
 }
 {
 	"length": 2738,
@@ -4735,918 +2712,918 @@
 }
 {
 	"length": 371,
-	"time": 331
+	"time": 229
 }
 {
 	"length": 2765,
-	"time": 572
+	"time": 940
 }
 {
 	"length": 2800,
-	"time": 561
+	"time": 596
 }
 {
 	"length": 2836,
-	"time": 769
+	"time": 489
 }
 {
 	"length": 2866,
-	"time": 491
+	"time": 552
 }
 {
 	"length": 2913,
-	"time": 826
+	"time": 528
 }
 {
 	"length": 2935,
-	"time": 549
+	"time": 674
 }
 {
 	"length": 2967,
-	"time": 696
+	"time": 515
 }
 {
 	"length": 3002,
-	"time": 769
+	"time": 760
 }
 {
 	"length": 3032,
-	"time": 615
+	"time": 523
 }
 {
 	"length": 3074,
-	"time": 649
+	"time": 674
 }
 {
 	"length": 398,
-	"time": 377
+	"time": 310
 }
 {
 	"length": 3097,
-	"time": 554
+	"time": 606
 }
 {
 	"length": 3129,
-	"time": 586
+	"time": 566
 }
 {
 	"length": 3173,
-	"time": 706
+	"time": 561
 }
 {
 	"length": 3195,
-	"time": 589
+	"time": 563
 }
 {
 	"length": 3243,
-	"time": 546
+	"time": 576
 }
 {
 	"length": 3269,
-	"time": 659
+	"time": 534
 }
 {
 	"length": 3314,
-	"time": 575
+	"time": 581
 }
 {
 	"length": 3329,
-	"time": 526
+	"time": 525
 }
 {
 	"length": 3367,
-	"time": 579
+	"time": 500
 }
 {
 	"length": 3395,
-	"time": 538
+	"time": 492
 }
 {
 	"length": 3,
-	"time": 114
+	"time": 116
 }
 {
 	"length": 33,
-	"time": 139
+	"time": 157
 }
 {
 	"length": 33,
-	"time": 111
+	"time": 115
 }
 {
 	"length": 34,
-	"time": 121
+	"time": 116
 }
 {
 	"length": 36,
+	"time": 110
+}
+{
+	"length": 35,
 	"time": 113
 }
 {
 	"length": 35,
-	"time": 134
+	"time": 121
 }
 {
 	"length": 35,
-	"time": 135
+	"time": 200
 }
 {
 	"length": 35,
-	"time": 137
-}
-{
-	"length": 35,
-	"time": 119
+	"time": 138
 }
 {
 	"length": 36,
-	"time": 187
+	"time": 102
 }
 {
 	"length": 36,
-	"time": 120
+	"time": 103
 }
 {
 	"length": 3,
-	"time": 103
+	"time": 101
 }
 {
 	"length": 36,
-	"time": 109
-}
-{
-	"length": 37,
-	"time": 127
-}
-{
-	"length": 38,
-	"time": 109
-}
-{
-	"length": 37,
-	"time": 111
-}
-{
-	"length": 38,
-	"time": 118
-}
-{
-	"length": 39,
-	"time": 104
-}
-{
-	"length": 38,
-	"time": 116
-}
-{
-	"length": 39,
-	"time": 169
-}
-{
-	"length": 40,
-	"time": 213
-}
-{
-	"length": 39,
-	"time": 174
-}
-{
-	"length": 5,
-	"time": 99
-}
-{
-	"length": 40,
-	"time": 109
-}
-{
-	"length": 41,
-	"time": 118
-}
-{
-	"length": 41,
-	"time": 119
-}
-{
-	"length": 43,
-	"time": 107
-}
-{
-	"length": 42,
-	"time": 133
-}
-{
-	"length": 41,
-	"time": 109
-}
-{
-	"length": 42,
-	"time": 116
-}
-{
-	"length": 43,
-	"time": 107
-}
-{
-	"length": 43,
-	"time": 110
-}
-{
-	"length": 43,
-	"time": 118
-}
-{
-	"length": 4,
-	"time": 96
-}
-{
-	"length": 43,
-	"time": 205
-}
-{
-	"length": 44,
-	"time": 113
-}
-{
-	"length": 44,
-	"time": 143
-}
-{
-	"length": 44,
-	"time": 118
-}
-{
-	"length": 44,
-	"time": 249
-}
-{
-	"length": 45,
-	"time": 404
-}
-{
-	"length": 45,
-	"time": 115
-}
-{
-	"length": 45,
-	"time": 313
-}
-{
-	"length": 47,
-	"time": 261
-}
-{
-	"length": 49,
-	"time": 303
-}
-{
-	"length": 4,
-	"time": 128
-}
-{
-	"length": 46,
-	"time": 118
-}
-{
-	"length": 47,
-	"time": 170
-}
-{
-	"length": 48,
-	"time": 144
-}
-{
-	"length": 48,
-	"time": 168
-}
-{
-	"length": 49,
 	"time": 123
 }
 {
-	"length": 48,
-	"time": 131
-}
-{
-	"length": 48,
-	"time": 121
-}
-{
-	"length": 50,
-	"time": 142
-}
-{
-	"length": 49,
-	"time": 187
-}
-{
-	"length": 50,
-	"time": 187
-}
-{
-	"length": 5,
-	"time": 215
-}
-{
-	"length": 51,
-	"time": 125
-}
-{
-	"length": 51,
-	"time": 121
-}
-{
-	"length": 50,
-	"time": 113
-}
-{
-	"length": 51,
-	"time": 127
-}
-{
-	"length": 51,
-	"time": 134
-}
-{
-	"length": 51,
-	"time": 126
-}
-{
-	"length": 52,
-	"time": 143
-}
-{
-	"length": 52,
-	"time": 138
-}
-{
-	"length": 52,
-	"time": 173
-}
-{
-	"length": 53,
-	"time": 185
-}
-{
-	"length": 5,
-	"time": 183
-}
-{
-	"length": 53,
-	"time": 163
-}
-{
-	"length": 54,
-	"time": 293
-}
-{
-	"length": 54,
-	"time": 129
-}
-{
-	"length": 54,
-	"time": 112
-}
-{
-	"length": 55,
-	"time": 155
-}
-{
-	"length": 55,
-	"time": 145
-}
-{
-	"length": 55,
-	"time": 119
-}
-{
-	"length": 56,
-	"time": 146
-}
-{
-	"length": 57,
-	"time": 117
-}
-{
-	"length": 56,
-	"time": 120
-}
-{
-	"length": 5,
-	"time": 116
-}
-{
-	"length": 57,
-	"time": 115
-}
-{
-	"length": 57,
-	"time": 147
-}
-{
-	"length": 57,
-	"time": 117
-}
-{
-	"length": 57,
-	"time": 114
-}
-{
-	"length": 58,
-	"time": 122
-}
-{
-	"length": 59,
-	"time": 114
-}
-{
-	"length": 58,
-	"time": 160
-}
-{
-	"length": 61,
-	"time": 188
-}
-{
-	"length": 59,
-	"time": 125
-}
-{
-	"length": 61,
-	"time": 150
-}
-{
-	"length": 6,
-	"time": 152
-}
-{
-	"length": 60,
-	"time": 130
-}
-{
-	"length": 60,
-	"time": 109
-}
-{
-	"length": 60,
-	"time": 135
-}
-{
-	"length": 63,
-	"time": 109
-}
-{
-	"length": 61,
-	"time": 118
-}
-{
-	"length": 62,
+	"length": 37,
 	"time": 144
 }
 {
-	"length": 62,
-	"time": 120
-}
-{
-	"length": 62,
-	"time": 265
-}
-{
-	"length": 62,
-	"time": 119
-}
-{
-	"length": 63,
-	"time": 130
-}
-{
-	"length": 6,
-	"time": 113
-}
-{
-	"length": 63,
-	"time": 118
-}
-{
-	"length": 64,
-	"time": 143
-}
-{
-	"length": 66,
-	"time": 112
-}
-{
-	"length": 64,
-	"time": 139
-}
-{
-	"length": 64,
-	"time": 172
-}
-{
-	"length": 65,
-	"time": 118
-}
-{
-	"length": 67,
-	"time": 121
-}
-{
-	"length": 66,
-	"time": 116
-}
-{
-	"length": 66,
-	"time": 115
-}
-{
-	"length": 66,
-	"time": 115
-}
-{
-	"length": 6,
-	"time": 101
-}
-{
-	"length": 66,
-	"time": 169
-}
-{
-	"length": 68,
-	"time": 112
-}
-{
-	"length": 68,
-	"time": 117
-}
-{
-	"length": 67,
-	"time": 112
-}
-{
-	"length": 68,
-	"time": 125
-}
-{
-	"length": 68,
-	"time": 116
-}
-{
-	"length": 68,
-	"time": 118
-}
-{
-	"length": 70,
-	"time": 118
-}
-{
-	"length": 69,
-	"time": 121
-}
-{
-	"length": 69,
-	"time": 139
-}
-{
-	"length": 7,
-	"time": 109
-}
-{
-	"length": 71,
-	"time": 174
-}
-{
-	"length": 70,
-	"time": 132
-}
-{
-	"length": 70,
-	"time": 135
-}
-{
-	"length": 72,
-	"time": 116
-}
-{
-	"length": 72,
-	"time": 128
-}
-{
-	"length": 71,
-	"time": 127
-}
-{
-	"length": 72,
-	"time": 183
-}
-{
-	"length": 72,
-	"time": 110
-}
-{
-	"length": 72,
-	"time": 108
-}
-{
-	"length": 74,
-	"time": 122
-}
-{
-	"length": 8,
-	"time": 103
-}
-{
-	"length": 73,
-	"time": 108
-}
-{
-	"length": 74,
-	"time": 183
-}
-{
-	"length": 75,
-	"time": 357
-}
-{
-	"length": 75,
-	"time": 211
-}
-{
-	"length": 74,
-	"time": 138
-}
-{
-	"length": 78,
-	"time": 117
-}
-{
-	"length": 75,
-	"time": 121
-}
-{
-	"length": 76,
-	"time": 118
-}
-{
-	"length": 77,
-	"time": 118
-}
-{
-	"length": 77,
-	"time": 197
-}
-{
-	"length": 7,
-	"time": 105
-}
-{
-	"length": 77,
-	"time": 119
-}
-{
-	"length": 78,
-	"time": 160
-}
-{
-	"length": 77,
-	"time": 113
-}
-{
-	"length": 78,
+	"length": 38,
 	"time": 162
 }
 {
-	"length": 78,
-	"time": 118
+	"length": 37,
+	"time": 117
 }
 {
-	"length": 78,
-	"time": 118
+	"length": 38,
+	"time": 159
 }
 {
-	"length": 79,
-	"time": 123
+	"length": 39,
+	"time": 119
 }
 {
-	"length": 81,
-	"time": 146
+	"length": 38,
+	"time": 131
 }
 {
-	"length": 79,
-	"time": 113
+	"length": 39,
+	"time": 110
 }
 {
-	"length": 82,
-	"time": 196
+	"length": 40,
+	"time": 127
 }
 {
-	"length": 8,
+	"length": 39,
+	"time": 114
+}
+{
+	"length": 5,
 	"time": 103
 }
 {
-	"length": 82,
-	"time": 145
+	"length": 40,
+	"time": 166
 }
 {
-	"length": 81,
-	"time": 178
+	"length": 41,
+	"time": 127
 }
 {
-	"length": 83,
-	"time": 121
+	"length": 41,
+	"time": 105
 }
 {
-	"length": 81,
-	"time": 128
-}
-{
-	"length": 81,
+	"length": 43,
 	"time": 115
 }
 {
-	"length": 82,
-	"time": 121
+	"length": 42,
+	"time": 109
 }
 {
-	"length": 82,
-	"time": 147
+	"length": 41,
+	"time": 108
 }
 {
-	"length": 83,
-	"time": 198
+	"length": 42,
+	"time": 103
 }
 {
-	"length": 82,
-	"time": 115
+	"length": 43,
+	"time": 102
 }
 {
-	"length": 84,
-	"time": 132
+	"length": 43,
+	"time": 152
 }
 {
-	"length": 8,
+	"length": 43,
+	"time": 108
+}
+{
+	"length": 4,
+	"time": 91
+}
+{
+	"length": 43,
+	"time": 267
+}
+{
+	"length": 44,
+	"time": 106
+}
+{
+	"length": 44,
 	"time": 141
 }
 {
-	"length": 83,
-	"time": 140
+	"length": 44,
+	"time": 116
 }
 {
-	"length": 87,
+	"length": 44,
+	"time": 213
+}
+{
+	"length": 45,
+	"time": 168
+}
+{
+	"length": 45,
+	"time": 106
+}
+{
+	"length": 45,
+	"time": 113
+}
+{
+	"length": 47,
 	"time": 122
 }
 {
-	"length": 86,
-	"time": 118
+	"length": 49,
+	"time": 111
 }
 {
-	"length": 85,
+	"length": 4,
+	"time": 106
+}
+{
+	"length": 46,
+	"time": 119
+}
+{
+	"length": 47,
+	"time": 141
+}
+{
+	"length": 48,
+	"time": 104
+}
+{
+	"length": 48,
+	"time": 103
+}
+{
+	"length": 49,
+	"time": 237
+}
+{
+	"length": 48,
 	"time": 107
 }
 {
-	"length": 84,
-	"time": 137
+	"length": 48,
+	"time": 109
 }
 {
-	"length": 86,
+	"length": 50,
+	"time": 103
+}
+{
+	"length": 49,
+	"time": 139
+}
+{
+	"length": 50,
+	"time": 104
+}
+{
+	"length": 5,
+	"time": 94
+}
+{
+	"length": 51,
+	"time": 108
+}
+{
+	"length": 51,
+	"time": 105
+}
+{
+	"length": 50,
+	"time": 104
+}
+{
+	"length": 51,
+	"time": 103
+}
+{
+	"length": 51,
+	"time": 106
+}
+{
+	"length": 51,
+	"time": 305
+}
+{
+	"length": 52,
+	"time": 146
+}
+{
+	"length": 52,
+	"time": 107
+}
+{
+	"length": 52,
+	"time": 106
+}
+{
+	"length": 53,
+	"time": 133
+}
+{
+	"length": 5,
+	"time": 355
+}
+{
+	"length": 53,
+	"time": 106
+}
+{
+	"length": 54,
+	"time": 138
+}
+{
+	"length": 54,
+	"time": 122
+}
+{
+	"length": 54,
+	"time": 108
+}
+{
+	"length": 55,
+	"time": 110
+}
+{
+	"length": 55,
+	"time": 134
+}
+{
+	"length": 55,
+	"time": 106
+}
+{
+	"length": 56,
+	"time": 110
+}
+{
+	"length": 57,
+	"time": 106
+}
+{
+	"length": 56,
+	"time": 140
+}
+{
+	"length": 5,
+	"time": 98
+}
+{
+	"length": 57,
+	"time": 123
+}
+{
+	"length": 57,
+	"time": 105
+}
+{
+	"length": 57,
+	"time": 104
+}
+{
+	"length": 57,
+	"time": 113
+}
+{
+	"length": 58,
+	"time": 106
+}
+{
+	"length": 59,
+	"time": 146
+}
+{
+	"length": 58,
+	"time": 122
+}
+{
+	"length": 61,
+	"time": 102
+}
+{
+	"length": 59,
+	"time": 180
+}
+{
+	"length": 61,
+	"time": 145
+}
+{
+	"length": 6,
+	"time": 164
+}
+{
+	"length": 60,
+	"time": 131
+}
+{
+	"length": 60,
 	"time": 112
 }
 {
+	"length": 60,
+	"time": 166
+}
+{
+	"length": 63,
+	"time": 110
+}
+{
+	"length": 61,
+	"time": 114
+}
+{
+	"length": 62,
+	"time": 108
+}
+{
+	"length": 62,
+	"time": 108
+}
+{
+	"length": 62,
+	"time": 144
+}
+{
+	"length": 62,
+	"time": 107
+}
+{
+	"length": 63,
+	"time": 175
+}
+{
+	"length": 6,
+	"time": 127
+}
+{
+	"length": 63,
+	"time": 112
+}
+{
+	"length": 64,
+	"time": 115
+}
+{
+	"length": 66,
+	"time": 108
+}
+{
+	"length": 64,
+	"time": 106
+}
+{
+	"length": 64,
+	"time": 110
+}
+{
+	"length": 65,
+	"time": 122
+}
+{
+	"length": 67,
+	"time": 152
+}
+{
+	"length": 66,
+	"time": 160
+}
+{
+	"length": 66,
+	"time": 178
+}
+{
+	"length": 66,
+	"time": 118
+}
+{
+	"length": 6,
+	"time": 194
+}
+{
+	"length": 66,
+	"time": 174
+}
+{
+	"length": 68,
+	"time": 152
+}
+{
+	"length": 68,
+	"time": 110
+}
+{
+	"length": 67,
+	"time": 115
+}
+{
+	"length": 68,
+	"time": 113
+}
+{
+	"length": 68,
+	"time": 161
+}
+{
+	"length": 68,
+	"time": 139
+}
+{
+	"length": 70,
+	"time": 105
+}
+{
+	"length": 69,
+	"time": 130
+}
+{
+	"length": 69,
+	"time": 148
+}
+{
+	"length": 7,
+	"time": 102
+}
+{
+	"length": 71,
+	"time": 104
+}
+{
+	"length": 70,
+	"time": 105
+}
+{
+	"length": 70,
+	"time": 105
+}
+{
+	"length": 72,
+	"time": 190
+}
+{
+	"length": 72,
+	"time": 106
+}
+{
+	"length": 71,
+	"time": 143
+}
+{
+	"length": 72,
+	"time": 109
+}
+{
+	"length": 72,
+	"time": 121
+}
+{
+	"length": 72,
+	"time": 129
+}
+{
+	"length": 74,
+	"time": 149
+}
+{
+	"length": 8,
+	"time": 150
+}
+{
+	"length": 73,
+	"time": 110
+}
+{
+	"length": 74,
+	"time": 113
+}
+{
+	"length": 75,
+	"time": 180
+}
+{
+	"length": 75,
+	"time": 104
+}
+{
+	"length": 74,
+	"time": 106
+}
+{
+	"length": 78,
+	"time": 104
+}
+{
+	"length": 75,
+	"time": 126
+}
+{
+	"length": 76,
+	"time": 113
+}
+{
+	"length": 77,
+	"time": 115
+}
+{
+	"length": 77,
+	"time": 147
+}
+{
+	"length": 7,
+	"time": 95
+}
+{
+	"length": 77,
+	"time": 110
+}
+{
+	"length": 78,
+	"time": 102
+}
+{
+	"length": 77,
+	"time": 130
+}
+{
+	"length": 78,
+	"time": 107
+}
+{
+	"length": 78,
+	"time": 121
+}
+{
+	"length": 78,
+	"time": 104
+}
+{
+	"length": 79,
+	"time": 166
+}
+{
+	"length": 81,
+	"time": 123
+}
+{
+	"length": 79,
+	"time": 119
+}
+{
+	"length": 82,
+	"time": 105
+}
+{
+	"length": 8,
+	"time": 100
+}
+{
+	"length": 82,
+	"time": 143
+}
+{
+	"length": 81,
+	"time": 124
+}
+{
+	"length": 83,
+	"time": 171
+}
+{
+	"length": 81,
+	"time": 112
+}
+{
+	"length": 81,
+	"time": 108
+}
+{
+	"length": 82,
+	"time": 102
+}
+{
+	"length": 82,
+	"time": 101
+}
+{
+	"length": 83,
+	"time": 102
+}
+{
+	"length": 82,
+	"time": 108
+}
+{
+	"length": 84,
+	"time": 104
+}
+{
+	"length": 8,
+	"time": 138
+}
+{
+	"length": 83,
+	"time": 103
+}
+{
+	"length": 87,
+	"time": 103
+}
+{
+	"length": 86,
+	"time": 115
+}
+{
 	"length": 85,
+	"time": 116
+}
+{
+	"length": 84,
+	"time": 107
+}
+{
+	"length": 86,
+	"time": 103
+}
+{
+	"length": 85,
+	"time": 152
+}
+{
+	"length": 86,
 	"time": 111
 }
 {
 	"length": 86,
-	"time": 113
+	"time": 142
 }
 {
-	"length": 86,
+	"length": 87,
+	"time": 103
+}
+{
+	"length": 8,
 	"time": 109
 }
 {
 	"length": 87,
-	"time": 116
-}
-{
-	"length": 8,
-	"time": 104
-}
-{
-	"length": 87,
-	"time": 108
+	"time": 103
 }
 {
 	"length": 92,
-	"time": 152
+	"time": 105
 }
 {
 	"length": 87,
-	"time": 107
+	"time": 105
 }
 {
 	"length": 87,
-	"time": 270
+	"time": 138
 }
 {
 	"length": 89,
-	"time": 117
-}
-{
-	"length": 90,
-	"time": 111
-}
-{
-	"length": 89,
-	"time": 125
-}
-{
-	"length": 90,
-	"time": 156
-}
-{
-	"length": 92,
-	"time": 140
-}
-{
-	"length": 93,
-	"time": 206
-}
-{
-	"length": 9,
 	"time": 101
 }
 {
 	"length": 90,
-	"time": 106
+	"time": 105
 }
 {
-	"length": 91,
+	"length": 89,
 	"time": 117
 }
 {
-	"length": 91,
-	"time": 108
-}
-{
-	"length": 93,
-	"time": 110
-}
-{
-	"length": 91,
-	"time": 113
-}
-{
-	"length": 91,
-	"time": 111
+	"length": 90,
+	"time": 101
 }
 {
 	"length": 92,
-	"time": 111
-}
-{
-	"length": 95,
-	"time": 131
-}
-{
-	"length": 92,
-	"time": 155
-}
-{
-	"length": 93,
-	"time": 220
-}
-{
-	"length": 11,
 	"time": 100
 }
 {
 	"length": 93,
-	"time": 112
+	"time": 105
 }
 {
-	"length": 94,
+	"length": 9,
+	"time": 130
+}
+{
+	"length": 90,
+	"time": 116
+}
+{
+	"length": 91,
+	"time": 102
+}
+{
+	"length": 91,
+	"time": 102
+}
+{
+	"length": 93,
+	"time": 103
+}
+{
+	"length": 91,
+	"time": 164
+}
+{
+	"length": 91,
+	"time": 113
+}
+{
+	"length": 92,
 	"time": 110
 }
 {
-	"length": 96,
+	"length": 95,
+	"time": 159
+}
+{
+	"length": 92,
+	"time": 112
+}
+{
+	"length": 93,
 	"time": 107
 }
 {
+	"length": 11,
+	"time": 103
+}
+{
+	"length": 93,
+	"time": 209
+}
+{
 	"length": 94,
-	"time": 115
+	"time": 107
+}
+{
+	"length": 96,
+	"time": 117
+}
+{
+	"length": 94,
+	"time": 139
 }
 {
 	"length": 95,
-	"time": 137
+	"time": 144
 }
 {
 	"length": 95,
+	"time": 104
+}
+{
+	"length": 96,
 	"time": 105
 }
 {
 	"length": 96,
-	"time": 106
-}
-{
-	"length": 96,
 	"time": 104
 }
 {
@@ -5655,51 +3632,51 @@
 }
 {
 	"length": 96,
-	"time": 108
-}
-{
-	"length": 9,
-	"time": 97
-}
-{
-	"length": 97,
-	"time": 111
-}
-{
-	"length": 98,
-	"time": 128
-}
-{
-	"length": 99,
-	"time": 121
-}
-{
-	"length": 97,
-	"time": 117
-}
-{
-	"length": 100,
 	"time": 115
 }
 {
-	"length": 99,
-	"time": 107
+	"length": 9,
+	"time": 109
+}
+{
+	"length": 97,
+	"time": 154
+}
+{
+	"length": 98,
+	"time": 105
 }
 {
 	"length": 99,
-	"time": 104
+	"time": 122
+}
+{
+	"length": 97,
+	"time": 103
+}
+{
+	"length": 100,
+	"time": 102
 }
 {
 	"length": 99,
-	"time": 106
+	"time": 102
+}
+{
+	"length": 99,
+	"time": 102
+}
+{
+	"length": 99,
+	"time": 136
 }
 {
 	"length": 102,
-	"time": 134
+	"time": 102
 }
 {
 	"length": 99,
-	"time": 108
+	"time": 131
 }
 {
 	"length": 1,
@@ -5707,19 +3684,23 @@
 }
 {
 	"length": 10,
-	"time": 117
+	"time": 160
 }
 {
 	"length": 102,
-	"time": 104
+	"time": 105
 }
 {
 	"length": 10,
-	"time": 107
+	"time": 100
 }
 {
 	"length": 10,
-	"time": 94
+	"time": 119
+}
+{
+	"length": 11,
+	"time": 182
 }
 {
 	"length": 11,
@@ -5727,39 +3708,39 @@
 }
 {
 	"length": 11,
-	"time": 93
-}
-{
-	"length": 11,
-	"time": 166
+	"time": 99
 }
 {
 	"length": 13,
+	"time": 93
+}
+{
+	"length": 12,
 	"time": 100
 }
 {
 	"length": 12,
-	"time": 154
-}
-{
-	"length": 12,
-	"time": 102
-}
-{
-	"length": 13,
-	"time": 98
-}
-{
-	"length": 1,
 	"time": 94
 }
 {
 	"length": 13,
-	"time": 97
+	"time": 92
+}
+{
+	"length": 1,
+	"time": 83
 }
 {
 	"length": 13,
-	"time": 136
+	"time": 117
+}
+{
+	"length": 13,
+	"time": 109
+}
+{
+	"length": 14,
+	"time": 191
 }
 {
 	"length": 14,
@@ -5767,131 +3748,127 @@
 }
 {
 	"length": 14,
-	"time": 104
-}
-{
-	"length": 14,
-	"time": 115
+	"time": 108
 }
 {
 	"length": 15,
-	"time": 146
+	"time": 94
 }
 {
 	"length": 15,
-	"time": 103
+	"time": 195
 }
 {
 	"length": 15,
-	"time": 106
-}
-{
-	"length": 16,
-	"time": 107
-}
-{
-	"length": 16,
-	"time": 100
-}
-{
-	"length": 1,
-	"time": 95
-}
-{
-	"length": 16,
-	"time": 116
-}
-{
-	"length": 18,
-	"time": 117
-}
-{
-	"length": 17,
-	"time": 104
-}
-{
-	"length": 17,
-	"time": 114
-}
-{
-	"length": 18,
-	"time": 134
-}
-{
-	"length": 19,
-	"time": 99
-}
-{
-	"length": 18,
-	"time": 102
-}
-{
-	"length": 20,
-	"time": 159
-}
-{
-	"length": 19,
-	"time": 246
-}
-{
-	"length": 19,
-	"time": 113
-}
-{
-	"length": 2,
-	"time": 104
-}
-{
-	"length": 20,
-	"time": 150
-}
-{
-	"length": 20,
-	"time": 139
-}
-{
-	"length": 20,
-	"time": 215
-}
-{
-	"length": 21,
-	"time": 153
-}
-{
-	"length": 21,
-	"time": 113
-}
-{
-	"length": 22,
-	"time": 179
-}
-{
-	"length": 24,
-	"time": 117
-}
-{
-	"length": 22,
-	"time": 114
-}
-{
-	"length": 22,
-	"time": 109
-}
-{
-	"length": 23,
-	"time": 113
-}
-{
-	"length": 2,
-	"time": 101
-}
-{
-	"length": 23,
 	"time": 158
 }
 {
+	"length": 16,
+	"time": 98
+}
+{
+	"length": 16,
+	"time": 94
+}
+{
+	"length": 1,
+	"time": 83
+}
+{
+	"length": 16,
+	"time": 164
+}
+{
+	"length": 18,
+	"time": 106
+}
+{
+	"length": 17,
+	"time": 104
+}
+{
+	"length": 17,
+	"time": 170
+}
+{
+	"length": 18,
+	"time": 105
+}
+{
+	"length": 19,
+	"time": 149
+}
+{
+	"length": 18,
+	"time": 115
+}
+{
+	"length": 20,
+	"time": 108
+}
+{
+	"length": 19,
+	"time": 103
+}
+{
+	"length": 19,
+	"time": 101
+}
+{
+	"length": 2,
+	"time": 111
+}
+{
+	"length": 20,
+	"time": 202
+}
+{
+	"length": 20,
+	"time": 108
+}
+{
+	"length": 20,
+	"time": 111
+}
+{
+	"length": 21,
+	"time": 167
+}
+{
+	"length": 21,
+	"time": 106
+}
+{
+	"length": 22,
+	"time": 137
+}
+{
+	"length": 24,
+	"time": 103
+}
+{
+	"length": 22,
+	"time": 185
+}
+{
+	"length": 22,
+	"time": 102
+}
+{
+	"length": 23,
+	"time": 155
+}
+{
+	"length": 2,
+	"time": 87
+}
+{
+	"length": 23,
+	"time": 109
+}
+{
 	"length": 25,
-	"time": 143
+	"time": 108
 }
 {
 	"length": 24,
@@ -5899,39 +3876,39 @@
 }
 {
 	"length": 24,
-	"time": 133
+	"time": 98
 }
 {
 	"length": 25,
-	"time": 109
+	"time": 220
 }
 {
 	"length": 25,
-	"time": 130
+	"time": 103
+}
+{
+	"length": 25,
+	"time": 102
 }
 {
 	"length": 25,
 	"time": 107
 }
 {
-	"length": 25,
-	"time": 114
+	"length": 26,
+	"time": 100
 }
 {
 	"length": 26,
 	"time": 104
 }
 {
-	"length": 26,
-	"time": 161
-}
-{
 	"length": 2,
-	"time": 99
+	"time": 103
 }
 {
 	"length": 27,
-	"time": 117
+	"time": 232
 }
 {
 	"length": 27,
@@ -5939,77 +3916,77 @@
 }
 {
 	"length": 27,
-	"time": 103
+	"time": 111
 }
 {
 	"length": 27,
-	"time": 117
+	"time": 97
 }
 {
 	"length": 28,
-	"time": 113
+	"time": 101
 }
 {
 	"length": 29,
-	"time": 172
+	"time": 136
 }
 {
 	"length": 29,
-	"time": 119
+	"time": 104
 }
 {
 	"length": 29,
-	"time": 158
+	"time": 108
 }
 {
 	"length": 31,
-	"time": 129
+	"time": 191
 }
 {
 	"length": 29,
-	"time": 187
+	"time": 104
 }
 {
 	"length": 3,
-	"time": 119
+	"time": 92
 }
 {
 	"length": 31,
-	"time": 190
+	"time": 101
 }
 {
 	"length": 30,
-	"time": 142
+	"time": 111
 }
 {
 	"length": 30,
-	"time": 110
+	"time": 104
 }
 {
 	"length": 31,
-	"time": 126
+	"time": 112
 }
 {
 	"length": 31,
-	"time": 152
+	"time": 196
 }
 {
 	"length": 31,
-	"time": 138
+	"time": 150
 }
 {
 	"length": 35,
-	"time": 126
+	"time": 258
 }
 {
 	"length": 32,
-	"time": 232
+	"time": 157
 }
 {
 	"length": 32,
-	"time": 188
+	"time": 217
 }
 {
 	"length": 33,
-	"time": 195
+	"time": 182
 }
