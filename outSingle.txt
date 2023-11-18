@@ -1,0 +1,3624 @@
+{
+	"length": 2108,
+	"time": 3635
+}
+{
+	"length": 4099,
+	"time": 5265
+}
+{
+	"length": 6098,
+	"time": 6720
+}
+{
+	"length": 8108,
+	"time": 11152
+}
+{
+	"length": 10091,
+	"time": 10648
+}
+{
+	"length": 20,
+	"time": 318
+}
+{
+	"length": 41,
+	"time": 557
+}
+{
+	"length": 60,
+	"time": 616
+}
+{
+	"length": 81,
+	"time": 642
+}
+{
+	"length": 100,
+	"time": 482
+}
+{
+	"length": 201,
+	"time": 842
+}
+{
+	"length": 1100,
+	"time": 1511
+}
+{
+	"length": 10104,
+	"time": 4951
+}
+{
+	"length": 1204,
+	"time": 841
+}
+{
+	"length": 1304,
+	"time": 853
+}
+{
+	"length": 1399,
+	"time": 910
+}
+{
+	"length": 1501,
+	"time": 720
+}
+{
+	"length": 1606,
+	"time": 736
+}
+{
+	"length": 1697,
+	"time": 821
+}
+{
+	"length": 1799,
+	"time": 1019
+}
+{
+	"length": 1895,
+	"time": 865
+}
+{
+	"length": 1990,
+	"time": 998
+}
+{
+	"length": 301,
+	"time": 250
+}
+{
+	"length": 2103,
+	"time": 979
+}
+{
+	"length": 2195,
+	"time": 965
+}
+{
+	"length": 2301,
+	"time": 688
+}
+{
+	"length": 2405,
+	"time": 593
+}
+{
+	"length": 2501,
+	"time": 894
+}
+{
+	"length": 2605,
+	"time": 621
+}
+{
+	"length": 2700,
+	"time": 862
+}
+{
+	"length": 2806,
+	"time": 588
+}
+{
+	"length": 2901,
+	"time": 616
+}
+{
+	"length": 3001,
+	"time": 715
+}
+{
+	"length": 400,
+	"time": 351
+}
+{
+	"length": 3108,
+	"time": 793
+}
+{
+	"length": 3201,
+	"time": 988
+}
+{
+	"length": 3296,
+	"time": 986
+}
+{
+	"length": 3402,
+	"time": 1022
+}
+{
+	"length": 3499,
+	"time": 1449
+}
+{
+	"length": 3600,
+	"time": 940
+}
+{
+	"length": 3707,
+	"time": 881
+}
+{
+	"length": 3814,
+	"time": 1030
+}
+{
+	"length": 3894,
+	"time": 1026
+}
+{
+	"length": 4005,
+	"time": 909
+}
+{
+	"length": 502,
+	"time": 224
+}
+{
+	"length": 4106,
+	"time": 696
+}
+{
+	"length": 4202,
+	"time": 779
+}
+{
+	"length": 4312,
+	"time": 771
+}
+{
+	"length": 4392,
+	"time": 835
+}
+{
+	"length": 4505,
+	"time": 801
+}
+{
+	"length": 4602,
+	"time": 845
+}
+{
+	"length": 4705,
+	"time": 857
+}
+{
+	"length": 4805,
+	"time": 832
+}
+{
+	"length": 4897,
+	"time": 841
+}
+{
+	"length": 5003,
+	"time": 1103
+}
+{
+	"length": 599,
+	"time": 256
+}
+{
+	"length": 5091,
+	"time": 880
+}
+{
+	"length": 5216,
+	"time": 1054
+}
+{
+	"length": 5312,
+	"time": 924
+}
+{
+	"length": 5410,
+	"time": 940
+}
+{
+	"length": 5494,
+	"time": 975
+}
+{
+	"length": 5597,
+	"time": 988
+}
+{
+	"length": 5699,
+	"time": 1025
+}
+{
+	"length": 5799,
+	"time": 937
+}
+{
+	"length": 5912,
+	"time": 1387
+}
+{
+	"length": 6007,
+	"time": 1077
+}
+{
+	"length": 700,
+	"time": 246
+}
+{
+	"length": 6099,
+	"time": 1072
+}
+{
+	"length": 6186,
+	"time": 1116
+}
+{
+	"length": 6303,
+	"time": 1390
+}
+{
+	"length": 6396,
+	"time": 1467
+}
+{
+	"length": 6490,
+	"time": 1196
+}
+{
+	"length": 6596,
+	"time": 1181
+}
+{
+	"length": 6707,
+	"time": 1423
+}
+{
+	"length": 6808,
+	"time": 1230
+}
+{
+	"length": 6925,
+	"time": 1367
+}
+{
+	"length": 6995,
+	"time": 1358
+}
+{
+	"length": 799,
+	"time": 398
+}
+{
+	"length": 7119,
+	"time": 1249
+}
+{
+	"length": 7199,
+	"time": 1368
+}
+{
+	"length": 7307,
+	"time": 1298
+}
+{
+	"length": 7401,
+	"time": 1454
+}
+{
+	"length": 7507,
+	"time": 1376
+}
+{
+	"length": 7611,
+	"time": 1342
+}
+{
+	"length": 7694,
+	"time": 1349
+}
+{
+	"length": 7799,
+	"time": 1421
+}
+{
+	"length": 7900,
+	"time": 1597
+}
+{
+	"length": 8004,
+	"time": 1849
+}
+{
+	"length": 902,
+	"time": 262
+}
+{
+	"length": 8094,
+	"time": 1391
+}
+{
+	"length": 8211,
+	"time": 1388
+}
+{
+	"length": 8292,
+	"time": 1565
+}
+{
+	"length": 8395,
+	"time": 1639
+}
+{
+	"length": 8516,
+	"time": 1532
+}
+{
+	"length": 8587,
+	"time": 1478
+}
+{
+	"length": 8705,
+	"time": 1806
+}
+{
+	"length": 8783,
+	"time": 1894
+}
+{
+	"length": 8900,
+	"time": 1586
+}
+{
+	"length": 9006,
+	"time": 1795
+}
+{
+	"length": 1001,
+	"time": 475
+}
+{
+	"length": 9109,
+	"time": 1986
+}
+{
+	"length": 9204,
+	"time": 2015
+}
+{
+	"length": 9307,
+	"time": 1752
+}
+{
+	"length": 9399,
+	"time": 1935
+}
+{
+	"length": 9512,
+	"time": 1815
+}
+{
+	"length": 9605,
+	"time": 1876
+}
+{
+	"length": 9713,
+	"time": 1707
+}
+{
+	"length": 9776,
+	"time": 2041
+}
+{
+	"length": 9928,
+	"time": 1713
+}
+{
+	"length": 9990,
+	"time": 1760
+}
+{
+	"length": 1,
+	"time": 113
+}
+{
+	"length": 10,
+	"time": 125
+}
+{
+	"length": 101,
+	"time": 133
+}
+{
+	"length": 11,
+	"time": 130
+}
+{
+	"length": 12,
+	"time": 127
+}
+{
+	"length": 13,
+	"time": 124
+}
+{
+	"length": 14,
+	"time": 169
+}
+{
+	"length": 15,
+	"time": 138
+}
+{
+	"length": 17,
+	"time": 126
+}
+{
+	"length": 17,
+	"time": 126
+}
+{
+	"length": 18,
+	"time": 127
+}
+{
+	"length": 20,
+	"time": 125
+}
+{
+	"length": 2,
+	"time": 124
+}
+{
+	"length": 20,
+	"time": 131
+}
+{
+	"length": 22,
+	"time": 130
+}
+{
+	"length": 22,
+	"time": 187
+}
+{
+	"length": 23,
+	"time": 144
+}
+{
+	"length": 24,
+	"time": 132
+}
+{
+	"length": 25,
+	"time": 137
+}
+{
+	"length": 28,
+	"time": 188
+}
+{
+	"length": 27,
+	"time": 163
+}
+{
+	"length": 28,
+	"time": 205
+}
+{
+	"length": 29,
+	"time": 141
+}
+{
+	"length": 3,
+	"time": 131
+}
+{
+	"length": 30,
+	"time": 119
+}
+{
+	"length": 31,
+	"time": 124
+}
+{
+	"length": 32,
+	"time": 118
+}
+{
+	"length": 33,
+	"time": 186
+}
+{
+	"length": 34,
+	"time": 123
+}
+{
+	"length": 35,
+	"time": 168
+}
+{
+	"length": 36,
+	"time": 130
+}
+{
+	"length": 37,
+	"time": 131
+}
+{
+	"length": 38,
+	"time": 120
+}
+{
+	"length": 39,
+	"time": 122
+}
+{
+	"length": 4,
+	"time": 138
+}
+{
+	"length": 42,
+	"time": 132
+}
+{
+	"length": 42,
+	"time": 133
+}
+{
+	"length": 42,
+	"time": 146
+}
+{
+	"length": 43,
+	"time": 150
+}
+{
+	"length": 44,
+	"time": 120
+}
+{
+	"length": 46,
+	"time": 130
+}
+{
+	"length": 46,
+	"time": 186
+}
+{
+	"length": 48,
+	"time": 135
+}
+{
+	"length": 48,
+	"time": 119
+}
+{
+	"length": 49,
+	"time": 123
+}
+{
+	"length": 5,
+	"time": 117
+}
+{
+	"length": 50,
+	"time": 122
+}
+{
+	"length": 51,
+	"time": 120
+}
+{
+	"length": 52,
+	"time": 136
+}
+{
+	"length": 54,
+	"time": 125
+}
+{
+	"length": 54,
+	"time": 122
+}
+{
+	"length": 55,
+	"time": 125
+}
+{
+	"length": 57,
+	"time": 124
+}
+{
+	"length": 60,
+	"time": 119
+}
+{
+	"length": 58,
+	"time": 119
+}
+{
+	"length": 60,
+	"time": 128
+}
+{
+	"length": 6,
+	"time": 118
+}
+{
+	"length": 61,
+	"time": 125
+}
+{
+	"length": 62,
+	"time": 127
+}
+{
+	"length": 62,
+	"time": 124
+}
+{
+	"length": 63,
+	"time": 150
+}
+{
+	"length": 65,
+	"time": 168
+}
+{
+	"length": 65,
+	"time": 207
+}
+{
+	"length": 66,
+	"time": 208
+}
+{
+	"length": 67,
+	"time": 137
+}
+{
+	"length": 69,
+	"time": 123
+}
+{
+	"length": 70,
+	"time": 121
+}
+{
+	"length": 7,
+	"time": 120
+}
+{
+	"length": 71,
+	"time": 137
+}
+{
+	"length": 73,
+	"time": 131
+}
+{
+	"length": 72,
+	"time": 125
+}
+{
+	"length": 73,
+	"time": 122
+}
+{
+	"length": 75,
+	"time": 121
+}
+{
+	"length": 77,
+	"time": 122
+}
+{
+	"length": 76,
+	"time": 121
+}
+{
+	"length": 79,
+	"time": 122
+}
+{
+	"length": 80,
+	"time": 124
+}
+{
+	"length": 79,
+	"time": 123
+}
+{
+	"length": 8,
+	"time": 116
+}
+{
+	"length": 80,
+	"time": 141
+}
+{
+	"length": 83,
+	"time": 134
+}
+{
+	"length": 83,
+	"time": 142
+}
+{
+	"length": 85,
+	"time": 128
+}
+{
+	"length": 85,
+	"time": 466
+}
+{
+	"length": 87,
+	"time": 222
+}
+{
+	"length": 89,
+	"time": 174
+}
+{
+	"length": 89,
+	"time": 172
+}
+{
+	"length": 89,
+	"time": 120
+}
+{
+	"length": 89,
+	"time": 125
+}
+{
+	"length": 9,
+	"time": 149
+}
+{
+	"length": 91,
+	"time": 121
+}
+{
+	"length": 91,
+	"time": 146
+}
+{
+	"length": 94,
+	"time": 123
+}
+{
+	"length": 95,
+	"time": 166
+}
+{
+	"length": 95,
+	"time": 165
+}
+{
+	"length": 98,
+	"time": 135
+}
+{
+	"length": 97,
+	"time": 126
+}
+{
+	"length": 99,
+	"time": 124
+}
+{
+	"length": 99,
+	"time": 127
+}
+{
+	"length": 99,
+	"time": 123
+}
+{
+	"length": 201,
+	"time": 969
+}
+{
+	"length": 1100,
+	"time": 1341
+}
+{
+	"length": 10104,
+	"time": 6925
+}
+{
+	"length": 1204,
+	"time": 1024
+}
+{
+	"length": 1304,
+	"time": 1144
+}
+{
+	"length": 1399,
+	"time": 968
+}
+{
+	"length": 1501,
+	"time": 865
+}
+{
+	"length": 1606,
+	"time": 1225
+}
+{
+	"length": 1697,
+	"time": 1075
+}
+{
+	"length": 1799,
+	"time": 1091
+}
+{
+	"length": 1895,
+	"time": 1295
+}
+{
+	"length": 1990,
+	"time": 1248
+}
+{
+	"length": 301,
+	"time": 342
+}
+{
+	"length": 2103,
+	"time": 1217
+}
+{
+	"length": 2195,
+	"time": 1178
+}
+{
+	"length": 2301,
+	"time": 972
+}
+{
+	"length": 2405,
+	"time": 1247
+}
+{
+	"length": 2501,
+	"time": 939
+}
+{
+	"length": 2605,
+	"time": 915
+}
+{
+	"length": 2700,
+	"time": 924
+}
+{
+	"length": 2806,
+	"time": 997
+}
+{
+	"length": 2901,
+	"time": 1014
+}
+{
+	"length": 3001,
+	"time": 1170
+}
+{
+	"length": 400,
+	"time": 776
+}
+{
+	"length": 3108,
+	"time": 1505
+}
+{
+	"length": 3201,
+	"time": 1455
+}
+{
+	"length": 3296,
+	"time": 1641
+}
+{
+	"length": 3402,
+	"time": 1765
+}
+{
+	"length": 3499,
+	"time": 1685
+}
+{
+	"length": 3600,
+	"time": 1302
+}
+{
+	"length": 3707,
+	"time": 1437
+}
+{
+	"length": 3814,
+	"time": 1145
+}
+{
+	"length": 3894,
+	"time": 1135
+}
+{
+	"length": 4005,
+	"time": 1364
+}
+{
+	"length": 502,
+	"time": 414
+}
+{
+	"length": 4106,
+	"time": 1293
+}
+{
+	"length": 4202,
+	"time": 2047
+}
+{
+	"length": 4312,
+	"time": 1786
+}
+{
+	"length": 4392,
+	"time": 1193
+}
+{
+	"length": 4505,
+	"time": 1217
+}
+{
+	"length": 4602,
+	"time": 1364
+}
+{
+	"length": 4705,
+	"time": 1224
+}
+{
+	"length": 4805,
+	"time": 1899
+}
+{
+	"length": 4897,
+	"time": 1280
+}
+{
+	"length": 5003,
+	"time": 1307
+}
+{
+	"length": 599,
+	"time": 554
+}
+{
+	"length": 5091,
+	"time": 1448
+}
+{
+	"length": 5216,
+	"time": 1362
+}
+{
+	"length": 5312,
+	"time": 1645
+}
+{
+	"length": 5410,
+	"time": 1665
+}
+{
+	"length": 5494,
+	"time": 1412
+}
+{
+	"length": 5597,
+	"time": 1352
+}
+{
+	"length": 5699,
+	"time": 1399
+}
+{
+	"length": 5799,
+	"time": 1432
+}
+{
+	"length": 5912,
+	"time": 1294
+}
+{
+	"length": 6007,
+	"time": 1387
+}
+{
+	"length": 700,
+	"time": 338
+}
+{
+	"length": 6099,
+	"time": 1248
+}
+{
+	"length": 6186,
+	"time": 1385
+}
+{
+	"length": 6303,
+	"time": 1572
+}
+{
+	"length": 6396,
+	"time": 1369
+}
+{
+	"length": 6490,
+	"time": 1242
+}
+{
+	"length": 6596,
+	"time": 1272
+}
+{
+	"length": 6707,
+	"time": 1385
+}
+{
+	"length": 6808,
+	"time": 1311
+}
+{
+	"length": 6925,
+	"time": 1342
+}
+{
+	"length": 6995,
+	"time": 1256
+}
+{
+	"length": 799,
+	"time": 328
+}
+{
+	"length": 7119,
+	"time": 1234
+}
+{
+	"length": 7199,
+	"time": 1435
+}
+{
+	"length": 7307,
+	"time": 1312
+}
+{
+	"length": 7401,
+	"time": 1329
+}
+{
+	"length": 7507,
+	"time": 1301
+}
+{
+	"length": 7611,
+	"time": 1319
+}
+{
+	"length": 7694,
+	"time": 1348
+}
+{
+	"length": 7799,
+	"time": 1375
+}
+{
+	"length": 7900,
+	"time": 1392
+}
+{
+	"length": 8004,
+	"time": 1438
+}
+{
+	"length": 902,
+	"time": 253
+}
+{
+	"length": 8094,
+	"time": 1492
+}
+{
+	"length": 8211,
+	"time": 1613
+}
+{
+	"length": 8292,
+	"time": 1428
+}
+{
+	"length": 8395,
+	"time": 1400
+}
+{
+	"length": 8516,
+	"time": 1376
+}
+{
+	"length": 8587,
+	"time": 1606
+}
+{
+	"length": 8705,
+	"time": 3251
+}
+{
+	"length": 8783,
+	"time": 1612
+}
+{
+	"length": 8900,
+	"time": 1456
+}
+{
+	"length": 9006,
+	"time": 1913
+}
+{
+	"length": 1001,
+	"time": 378
+}
+{
+	"length": 9109,
+	"time": 1623
+}
+{
+	"length": 9204,
+	"time": 1758
+}
+{
+	"length": 9307,
+	"time": 1932
+}
+{
+	"length": 9399,
+	"time": 1897
+}
+{
+	"length": 9512,
+	"time": 1654
+}
+{
+	"length": 9605,
+	"time": 1742
+}
+{
+	"length": 9713,
+	"time": 1948
+}
+{
+	"length": 9776,
+	"time": 2074
+}
+{
+	"length": 9928,
+	"time": 1857
+}
+{
+	"length": 9990,
+	"time": 1786
+}
+{
+	"length": 3,
+	"time": 127
+}
+{
+	"length": 33,
+	"time": 120
+}
+{
+	"length": 33,
+	"time": 114
+}
+{
+	"length": 36,
+	"time": 133
+}
+{
+	"length": 34,
+	"time": 103
+}
+{
+	"length": 35,
+	"time": 98
+}
+{
+	"length": 36,
+	"time": 123
+}
+{
+	"length": 35,
+	"time": 104
+}
+{
+	"length": 35,
+	"time": 115
+}
+{
+	"length": 36,
+	"time": 126
+}
+{
+	"length": 36,
+	"time": 100
+}
+{
+	"length": 3,
+	"time": 94
+}
+{
+	"length": 37,
+	"time": 120
+}
+{
+	"length": 38,
+	"time": 125
+}
+{
+	"length": 37,
+	"time": 136
+}
+{
+	"length": 37,
+	"time": 119
+}
+{
+	"length": 38,
+	"time": 104
+}
+{
+	"length": 38,
+	"time": 102
+}
+{
+	"length": 38,
+	"time": 106
+}
+{
+	"length": 39,
+	"time": 110
+}
+{
+	"length": 40,
+	"time": 129
+}
+{
+	"length": 39,
+	"time": 105
+}
+{
+	"length": 4,
+	"time": 97
+}
+{
+	"length": 40,
+	"time": 125
+}
+{
+	"length": 40,
+	"time": 106
+}
+{
+	"length": 40,
+	"time": 103
+}
+{
+	"length": 41,
+	"time": 166
+}
+{
+	"length": 41,
+	"time": 130
+}
+{
+	"length": 43,
+	"time": 114
+}
+{
+	"length": 44,
+	"time": 144
+}
+{
+	"length": 42,
+	"time": 103
+}
+{
+	"length": 42,
+	"time": 155
+}
+{
+	"length": 44,
+	"time": 98
+}
+{
+	"length": 4,
+	"time": 92
+}
+{
+	"length": 43,
+	"time": 112
+}
+{
+	"length": 43,
+	"time": 107
+}
+{
+	"length": 44,
+	"time": 132
+}
+{
+	"length": 44,
+	"time": 101
+}
+{
+	"length": 45,
+	"time": 118
+}
+{
+	"length": 45,
+	"time": 104
+}
+{
+	"length": 45,
+	"time": 104
+}
+{
+	"length": 47,
+	"time": 101
+}
+{
+	"length": 47,
+	"time": 106
+}
+{
+	"length": 46,
+	"time": 167
+}
+{
+	"length": 4,
+	"time": 117
+}
+{
+	"length": 49,
+	"time": 126
+}
+{
+	"length": 47,
+	"time": 104
+}
+{
+	"length": 48,
+	"time": 103
+}
+{
+	"length": 47,
+	"time": 101
+}
+{
+	"length": 48,
+	"time": 127
+}
+{
+	"length": 50,
+	"time": 102
+}
+{
+	"length": 49,
+	"time": 104
+}
+{
+	"length": 50,
+	"time": 99
+}
+{
+	"length": 49,
+	"time": 108
+}
+{
+	"length": 49,
+	"time": 111
+}
+{
+	"length": 5,
+	"time": 135
+}
+{
+	"length": 50,
+	"time": 105
+}
+{
+	"length": 50,
+	"time": 108
+}
+{
+	"length": 50,
+	"time": 98
+}
+{
+	"length": 51,
+	"time": 101
+}
+{
+	"length": 52,
+	"time": 127
+}
+{
+	"length": 52,
+	"time": 99
+}
+{
+	"length": 53,
+	"time": 106
+}
+{
+	"length": 52,
+	"time": 150
+}
+{
+	"length": 53,
+	"time": 128
+}
+{
+	"length": 54,
+	"time": 127
+}
+{
+	"length": 5,
+	"time": 95
+}
+{
+	"length": 53,
+	"time": 126
+}
+{
+	"length": 53,
+	"time": 119
+}
+{
+	"length": 54,
+	"time": 96
+}
+{
+	"length": 56,
+	"time": 98
+}
+{
+	"length": 54,
+	"time": 132
+}
+{
+	"length": 55,
+	"time": 97
+}
+{
+	"length": 55,
+	"time": 98
+}
+{
+	"length": 56,
+	"time": 94
+}
+{
+	"length": 57,
+	"time": 110
+}
+{
+	"length": 56,
+	"time": 140
+}
+{
+	"length": 5,
+	"time": 104
+}
+{
+	"length": 57,
+	"time": 97
+}
+{
+	"length": 59,
+	"time": 103
+}
+{
+	"length": 59,
+	"time": 102
+}
+{
+	"length": 57,
+	"time": 123
+}
+{
+	"length": 58,
+	"time": 104
+}
+{
+	"length": 58,
+	"time": 101
+}
+{
+	"length": 59,
+	"time": 96
+}
+{
+	"length": 59,
+	"time": 98
+}
+{
+	"length": 59,
+	"time": 94
+}
+{
+	"length": 59,
+	"time": 134
+}
+{
+	"length": 6,
+	"time": 92
+}
+{
+	"length": 60,
+	"time": 101
+}
+{
+	"length": 61,
+	"time": 99
+}
+{
+	"length": 60,
+	"time": 175
+}
+{
+	"length": 61,
+	"time": 158
+}
+{
+	"length": 62,
+	"time": 94
+}
+{
+	"length": 61,
+	"time": 122
+}
+{
+	"length": 62,
+	"time": 91
+}
+{
+	"length": 62,
+	"time": 95
+}
+{
+	"length": 63,
+	"time": 133
+}
+{
+	"length": 64,
+	"time": 115
+}
+{
+	"length": 6,
+	"time": 100
+}
+{
+	"length": 64,
+	"time": 106
+}
+{
+	"length": 65,
+	"time": 93
+}
+{
+	"length": 65,
+	"time": 98
+}
+{
+	"length": 64,
+	"time": 129
+}
+{
+	"length": 65,
+	"time": 97
+}
+{
+	"length": 65,
+	"time": 90
+}
+{
+	"length": 65,
+	"time": 149
+}
+{
+	"length": 67,
+	"time": 110
+}
+{
+	"length": 66,
+	"time": 187
+}
+{
+	"length": 67,
+	"time": 114
+}
+{
+	"length": 6,
+	"time": 112
+}
+{
+	"length": 66,
+	"time": 198
+}
+{
+	"length": 68,
+	"time": 130
+}
+{
+	"length": 67,
+	"time": 103
+}
+{
+	"length": 68,
+	"time": 103
+}
+{
+	"length": 68,
+	"time": 105
+}
+{
+	"length": 68,
+	"time": 172
+}
+{
+	"length": 69,
+	"time": 100
+}
+{
+	"length": 70,
+	"time": 116
+}
+{
+	"length": 69,
+	"time": 98
+}
+{
+	"length": 69,
+	"time": 102
+}
+{
+	"length": 7,
+	"time": 85
+}
+{
+	"length": 70,
+	"time": 98
+}
+{
+	"length": 72,
+	"time": 133
+}
+{
+	"length": 72,
+	"time": 94
+}
+{
+	"length": 71,
+	"time": 95
+}
+{
+	"length": 71,
+	"time": 191
+}
+{
+	"length": 71,
+	"time": 99
+}
+{
+	"length": 74,
+	"time": 140
+}
+{
+	"length": 75,
+	"time": 142
+}
+{
+	"length": 73,
+	"time": 138
+}
+{
+	"length": 74,
+	"time": 102
+}
+{
+	"length": 7,
+	"time": 116
+}
+{
+	"length": 74,
+	"time": 95
+}
+{
+	"length": 73,
+	"time": 139
+}
+{
+	"length": 76,
+	"time": 100
+}
+{
+	"length": 75,
+	"time": 105
+}
+{
+	"length": 74,
+	"time": 92
+}
+{
+	"length": 75,
+	"time": 105
+}
+{
+	"length": 77,
+	"time": 143
+}
+{
+	"length": 75,
+	"time": 108
+}
+{
+	"length": 76,
+	"time": 98
+}
+{
+	"length": 77,
+	"time": 104
+}
+{
+	"length": 7,
+	"time": 137
+}
+{
+	"length": 76,
+	"time": 133
+}
+{
+	"length": 78,
+	"time": 111
+}
+{
+	"length": 78,
+	"time": 107
+}
+{
+	"length": 77,
+	"time": 121
+}
+{
+	"length": 80,
+	"time": 114
+}
+{
+	"length": 80,
+	"time": 97
+}
+{
+	"length": 81,
+	"time": 140
+}
+{
+	"length": 79,
+	"time": 106
+}
+{
+	"length": 79,
+	"time": 112
+}
+{
+	"length": 79,
+	"time": 134
+}
+{
+	"length": 8,
+	"time": 89
+}
+{
+	"length": 81,
+	"time": 131
+}
+{
+	"length": 82,
+	"time": 99
+}
+{
+	"length": 80,
+	"time": 102
+}
+{
+	"length": 81,
+	"time": 146
+}
+{
+	"length": 81,
+	"time": 105
+}
+{
+	"length": 81,
+	"time": 204
+}
+{
+	"length": 83,
+	"time": 118
+}
+{
+	"length": 82,
+	"time": 92
+}
+{
+	"length": 82,
+	"time": 96
+}
+{
+	"length": 83,
+	"time": 111
+}
+{
+	"length": 8,
+	"time": 89
+}
+{
+	"length": 84,
+	"time": 153
+}
+{
+	"length": 83,
+	"time": 93
+}
+{
+	"length": 86,
+	"time": 173
+}
+{
+	"length": 85,
+	"time": 105
+}
+{
+	"length": 84,
+	"time": 104
+}
+{
+	"length": 85,
+	"time": 149
+}
+{
+	"length": 88,
+	"time": 100
+}
+{
+	"length": 86,
+	"time": 101
+}
+{
+	"length": 86,
+	"time": 95
+}
+{
+	"length": 87,
+	"time": 110
+}
+{
+	"length": 8,
+	"time": 111
+}
+{
+	"length": 87,
+	"time": 103
+}
+{
+	"length": 90,
+	"time": 96
+}
+{
+	"length": 87,
+	"time": 103
+}
+{
+	"length": 87,
+	"time": 114
+}
+{
+	"length": 88,
+	"time": 115
+}
+{
+	"length": 88,
+	"time": 120
+}
+{
+	"length": 88,
+	"time": 113
+}
+{
+	"length": 89,
+	"time": 105
+}
+{
+	"length": 90,
+	"time": 101
+}
+{
+	"length": 90,
+	"time": 95
+}
+{
+	"length": 10,
+	"time": 112
+}
+{
+	"length": 91,
+	"time": 94
+}
+{
+	"length": 91,
+	"time": 127
+}
+{
+	"length": 90,
+	"time": 95
+}
+{
+	"length": 93,
+	"time": 104
+}
+{
+	"length": 93,
+	"time": 142
+}
+{
+	"length": 93,
+	"time": 103
+}
+{
+	"length": 92,
+	"time": 96
+}
+{
+	"length": 92,
+	"time": 94
+}
+{
+	"length": 94,
+	"time": 92
+}
+{
+	"length": 93,
+	"time": 95
+}
+{
+	"length": 9,
+	"time": 120
+}
+{
+	"length": 93,
+	"time": 95
+}
+{
+	"length": 93,
+	"time": 98
+}
+{
+	"length": 94,
+	"time": 131
+}
+{
+	"length": 94,
+	"time": 92
+}
+{
+	"length": 95,
+	"time": 105
+}
+{
+	"length": 95,
+	"time": 94
+}
+{
+	"length": 95,
+	"time": 93
+}
+{
+	"length": 95,
+	"time": 107
+}
+{
+	"length": 98,
+	"time": 95
+}
+{
+	"length": 98,
+	"time": 96
+}
+{
+	"length": 9,
+	"time": 89
+}
+{
+	"length": 100,
+	"time": 94
+}
+{
+	"length": 97,
+	"time": 94
+}
+{
+	"length": 97,
+	"time": 100
+}
+{
+	"length": 98,
+	"time": 120
+}
+{
+	"length": 98,
+	"time": 106
+}
+{
+	"length": 98,
+	"time": 188
+}
+{
+	"length": 100,
+	"time": 94
+}
+{
+	"length": 101,
+	"time": 91
+}
+{
+	"length": 101,
+	"time": 93
+}
+{
+	"length": 103,
+	"time": 91
+}
+{
+	"length": 1,
+	"time": 77
+}
+{
+	"length": 10,
+	"time": 185
+}
+{
+	"length": 100,
+	"time": 104
+}
+{
+	"length": 10,
+	"time": 87
+}
+{
+	"length": 11,
+	"time": 91
+}
+{
+	"length": 12,
+	"time": 85
+}
+{
+	"length": 11,
+	"time": 132
+}
+{
+	"length": 11,
+	"time": 96
+}
+{
+	"length": 12,
+	"time": 83
+}
+{
+	"length": 12,
+	"time": 124
+}
+{
+	"length": 12,
+	"time": 87
+}
+{
+	"length": 14,
+	"time": 88
+}
+{
+	"length": 1,
+	"time": 209
+}
+{
+	"length": 13,
+	"time": 124
+}
+{
+	"length": 13,
+	"time": 119
+}
+{
+	"length": 14,
+	"time": 146
+}
+{
+	"length": 14,
+	"time": 99
+}
+{
+	"length": 14,
+	"time": 85
+}
+{
+	"length": 15,
+	"time": 92
+}
+{
+	"length": 15,
+	"time": 98
+}
+{
+	"length": 15,
+	"time": 90
+}
+{
+	"length": 16,
+	"time": 109
+}
+{
+	"length": 16,
+	"time": 87
+}
+{
+	"length": 1,
+	"time": 82
+}
+{
+	"length": 16,
+	"time": 127
+}
+{
+	"length": 18,
+	"time": 89
+}
+{
+	"length": 17,
+	"time": 94
+}
+{
+	"length": 17,
+	"time": 86
+}
+{
+	"length": 18,
+	"time": 82
+}
+{
+	"length": 18,
+	"time": 82
+}
+{
+	"length": 18,
+	"time": 81
+}
+{
+	"length": 19,
+	"time": 83
+}
+{
+	"length": 19,
+	"time": 83
+}
+{
+	"length": 19,
+	"time": 87
+}
+{
+	"length": 2,
+	"time": 75
+}
+{
+	"length": 20,
+	"time": 89
+}
+{
+	"length": 20,
+	"time": 89
+}
+{
+	"length": 21,
+	"time": 90
+}
+{
+	"length": 22,
+	"time": 87
+}
+{
+	"length": 22,
+	"time": 86
+}
+{
+	"length": 21,
+	"time": 83
+}
+{
+	"length": 22,
+	"time": 86
+}
+{
+	"length": 22,
+	"time": 86
+}
+{
+	"length": 22,
+	"time": 83
+}
+{
+	"length": 24,
+	"time": 83
+}
+{
+	"length": 2,
+	"time": 126
+}
+{
+	"length": 23,
+	"time": 103
+}
+{
+	"length": 23,
+	"time": 102
+}
+{
+	"length": 24,
+	"time": 89
+}
+{
+	"length": 24,
+	"time": 98
+}
+{
+	"length": 24,
+	"time": 85
+}
+{
+	"length": 26,
+	"time": 86
+}
+{
+	"length": 25,
+	"time": 92
+}
+{
+	"length": 25,
+	"time": 87
+}
+{
+	"length": 26,
+	"time": 87
+}
+{
+	"length": 26,
+	"time": 89
+}
+{
+	"length": 2,
+	"time": 78
+}
+{
+	"length": 26,
+	"time": 111
+}
+{
+	"length": 27,
+	"time": 88
+}
+{
+	"length": 27,
+	"time": 86
+}
+{
+	"length": 28,
+	"time": 89
+}
+{
+	"length": 28,
+	"time": 207
+}
+{
+	"length": 29,
+	"time": 92
+}
+{
+	"length": 28,
+	"time": 85
+}
+{
+	"length": 30,
+	"time": 88
+}
+{
+	"length": 29,
+	"time": 92
+}
+{
+	"length": 30,
+	"time": 86
+}
+{
+	"length": 3,
+	"time": 74
+}
+{
+	"length": 30,
+	"time": 85
+}
+{
+	"length": 30,
+	"time": 83
+}
+{
+	"length": 30,
+	"time": 83
+}
+{
+	"length": 32,
+	"time": 102
+}
+{
+	"length": 31,
+	"time": 85
+}
+{
+	"length": 31,
+	"time": 85
+}
+{
+	"length": 32,
+	"time": 84
+}
+{
+	"length": 32,
+	"time": 83
+}
+{
+	"length": 32,
+	"time": 89
+}
+{
+	"length": 33,
+	"time": 82
+}
+{
+	"length": 3,
+	"time": 396
+}
+{
+	"length": 33,
+	"time": 376
+}
+{
+	"length": 33,
+	"time": 396
+}
+{
+	"length": 34,
+	"time": 307
+}
+{
+	"length": 36,
+	"time": 305
+}
+{
+	"length": 35,
+	"time": 284
+}
+{
+	"length": 35,
+	"time": 257
+}
+{
+	"length": 35,
+	"time": 295
+}
+{
+	"length": 35,
+	"time": 201
+}
+{
+	"length": 36,
+	"time": 225
+}
+{
+	"length": 36,
+	"time": 293
+}
+{
+	"length": 3,
+	"time": 188
+}
+{
+	"length": 36,
+	"time": 267
+}
+{
+	"length": 37,
+	"time": 303
+}
+{
+	"length": 38,
+	"time": 404
+}
+{
+	"length": 37,
+	"time": 220
+}
+{
+	"length": 38,
+	"time": 187
+}
+{
+	"length": 39,
+	"time": 211
+}
+{
+	"length": 38,
+	"time": 208
+}
+{
+	"length": 39,
+	"time": 181
+}
+{
+	"length": 40,
+	"time": 200
+}
+{
+	"length": 39,
+	"time": 245
+}
+{
+	"length": 5,
+	"time": 290
+}
+{
+	"length": 40,
+	"time": 213
+}
+{
+	"length": 41,
+	"time": 238
+}
+{
+	"length": 41,
+	"time": 150
+}
+{
+	"length": 43,
+	"time": 255
+}
+{
+	"length": 42,
+	"time": 266
+}
+{
+	"length": 41,
+	"time": 169
+}
+{
+	"length": 42,
+	"time": 183
+}
+{
+	"length": 43,
+	"time": 179
+}
+{
+	"length": 43,
+	"time": 281
+}
+{
+	"length": 43,
+	"time": 174
+}
+{
+	"length": 4,
+	"time": 113
+}
+{
+	"length": 43,
+	"time": 325
+}
+{
+	"length": 44,
+	"time": 194
+}
+{
+	"length": 44,
+	"time": 204
+}
+{
+	"length": 44,
+	"time": 173
+}
+{
+	"length": 44,
+	"time": 194
+}
+{
+	"length": 45,
+	"time": 254
+}
+{
+	"length": 45,
+	"time": 212
+}
+{
+	"length": 45,
+	"time": 173
+}
+{
+	"length": 47,
+	"time": 177
+}
+{
+	"length": 49,
+	"time": 169
+}
+{
+	"length": 4,
+	"time": 137
+}
+{
+	"length": 46,
+	"time": 214
+}
+{
+	"length": 47,
+	"time": 180
+}
+{
+	"length": 48,
+	"time": 156
+}
+{
+	"length": 48,
+	"time": 161
+}
+{
+	"length": 49,
+	"time": 162
+}
+{
+	"length": 48,
+	"time": 156
+}
+{
+	"length": 48,
+	"time": 214
+}
+{
+	"length": 50,
+	"time": 188
+}
+{
+	"length": 49,
+	"time": 167
+}
+{
+	"length": 50,
+	"time": 180
+}
+{
+	"length": 5,
+	"time": 151
+}
+{
+	"length": 51,
+	"time": 306
+}
+{
+	"length": 51,
+	"time": 240
+}
+{
+	"length": 50,
+	"time": 221
+}
+{
+	"length": 51,
+	"time": 224
+}
+{
+	"length": 51,
+	"time": 202
+}
+{
+	"length": 51,
+	"time": 236
+}
+{
+	"length": 52,
+	"time": 196
+}
+{
+	"length": 52,
+	"time": 254
+}
+{
+	"length": 52,
+	"time": 198
+}
+{
+	"length": 53,
+	"time": 238
+}
+{
+	"length": 5,
+	"time": 123
+}
+{
+	"length": 53,
+	"time": 222
+}
+{
+	"length": 54,
+	"time": 163
+}
+{
+	"length": 54,
+	"time": 173
+}
+{
+	"length": 54,
+	"time": 177
+}
+{
+	"length": 55,
+	"time": 195
+}
+{
+	"length": 55,
+	"time": 199
+}
+{
+	"length": 55,
+	"time": 187
+}
+{
+	"length": 56,
+	"time": 184
+}
+{
+	"length": 57,
+	"time": 215
+}
+{
+	"length": 56,
+	"time": 195
+}
+{
+	"length": 5,
+	"time": 202
+}
+{
+	"length": 57,
+	"time": 220
+}
+{
+	"length": 57,
+	"time": 313
+}
+{
+	"length": 57,
+	"time": 283
+}
+{
+	"length": 57,
+	"time": 189
+}
+{
+	"length": 58,
+	"time": 185
+}
+{
+	"length": 59,
+	"time": 260
+}
+{
+	"length": 58,
+	"time": 201
+}
+{
+	"length": 61,
+	"time": 182
+}
+{
+	"length": 59,
+	"time": 212
+}
+{
+	"length": 61,
+	"time": 502
+}
+{
+	"length": 6,
+	"time": 271
+}
+{
+	"length": 60,
+	"time": 314
+}
+{
+	"length": 60,
+	"time": 230
+}
+{
+	"length": 60,
+	"time": 161
+}
+{
+	"length": 63,
+	"time": 460
+}
+{
+	"length": 61,
+	"time": 283
+}
+{
+	"length": 62,
+	"time": 172
+}
+{
+	"length": 62,
+	"time": 213
+}
+{
+	"length": 62,
+	"time": 214
+}
+{
+	"length": 62,
+	"time": 174
+}
+{
+	"length": 63,
+	"time": 237
+}
+{
+	"length": 6,
+	"time": 172
+}
+{
+	"length": 63,
+	"time": 249
+}
+{
+	"length": 64,
+	"time": 349
+}
+{
+	"length": 66,
+	"time": 295
+}
+{
+	"length": 64,
+	"time": 258
+}
+{
+	"length": 64,
+	"time": 285
+}
+{
+	"length": 65,
+	"time": 245
+}
+{
+	"length": 67,
+	"time": 259
+}
+{
+	"length": 66,
+	"time": 326
+}
+{
+	"length": 66,
+	"time": 290
+}
+{
+	"length": 66,
+	"time": 269
+}
+{
+	"length": 6,
+	"time": 127
+}
+{
+	"length": 66,
+	"time": 193
+}
+{
+	"length": 68,
+	"time": 283
+}
+{
+	"length": 68,
+	"time": 312
+}
+{
+	"length": 67,
+	"time": 235
+}
+{
+	"length": 68,
+	"time": 215
+}
+{
+	"length": 68,
+	"time": 224
+}
+{
+	"length": 68,
+	"time": 411
+}
+{
+	"length": 70,
+	"time": 262
+}
+{
+	"length": 69,
+	"time": 370
+}
+{
+	"length": 69,
+	"time": 215
+}
+{
+	"length": 7,
+	"time": 272
+}
+{
+	"length": 71,
+	"time": 727
+}
+{
+	"length": 70,
+	"time": 304
+}
+{
+	"length": 70,
+	"time": 241
+}
+{
+	"length": 72,
+	"time": 300
+}
+{
+	"length": 72,
+	"time": 267
+}
+{
+	"length": 71,
+	"time": 388
+}
+{
+	"length": 72,
+	"time": 323
+}
+{
+	"length": 72,
+	"time": 270
+}
+{
+	"length": 72,
+	"time": 355
+}
+{
+	"length": 74,
+	"time": 322
+}
+{
+	"length": 8,
+	"time": 203
+}
+{
+	"length": 73,
+	"time": 305
+}
+{
+	"length": 74,
+	"time": 235
+}
+{
+	"length": 75,
+	"time": 511
+}
+{
+	"length": 75,
+	"time": 302
+}
+{
+	"length": 74,
+	"time": 149
+}
+{
+	"length": 78,
+	"time": 195
+}
+{
+	"length": 75,
+	"time": 268
+}
+{
+	"length": 76,
+	"time": 195
+}
+{
+	"length": 77,
+	"time": 303
+}
+{
+	"length": 77,
+	"time": 195
+}
+{
+	"length": 7,
+	"time": 149
+}
+{
+	"length": 77,
+	"time": 284
+}
+{
+	"length": 78,
+	"time": 507
+}
+{
+	"length": 77,
+	"time": 225
+}
+{
+	"length": 78,
+	"time": 309
+}
+{
+	"length": 78,
+	"time": 305
+}
+{
+	"length": 78,
+	"time": 263
+}
+{
+	"length": 79,
+	"time": 321
+}
+{
+	"length": 81,
+	"time": 175
+}
+{
+	"length": 79,
+	"time": 208
+}
+{
+	"length": 82,
+	"time": 243
+}
+{
+	"length": 8,
+	"time": 243
+}
+{
+	"length": 82,
+	"time": 295
+}
+{
+	"length": 81,
+	"time": 322
+}
+{
+	"length": 83,
+	"time": 265
+}
+{
+	"length": 81,
+	"time": 253
+}
+{
+	"length": 81,
+	"time": 334
+}
+{
+	"length": 82,
+	"time": 313
+}
+{
+	"length": 82,
+	"time": 165
+}
+{
+	"length": 83,
+	"time": 355
+}
+{
+	"length": 82,
+	"time": 153
+}
+{
+	"length": 84,
+	"time": 168
+}
+{
+	"length": 8,
+	"time": 173
+}
+{
+	"length": 83,
+	"time": 343
+}
+{
+	"length": 87,
+	"time": 293
+}
+{
+	"length": 86,
+	"time": 314
+}
+{
+	"length": 85,
+	"time": 290
+}
+{
+	"length": 84,
+	"time": 214
+}
+{
+	"length": 86,
+	"time": 293
+}
+{
+	"length": 85,
+	"time": 161
+}
+{
+	"length": 86,
+	"time": 265
+}
+{
+	"length": 86,
+	"time": 307
+}
+{
+	"length": 87,
+	"time": 199
+}
+{
+	"length": 8,
+	"time": 114
+}
+{
+	"length": 87,
+	"time": 241
+}
+{
+	"length": 92,
+	"time": 257
+}
+{
+	"length": 87,
+	"time": 311
+}
+{
+	"length": 87,
+	"time": 145
+}
+{
+	"length": 89,
+	"time": 155
+}
+{
+	"length": 90,
+	"time": 171
+}
+{
+	"length": 89,
+	"time": 199
+}
+{
+	"length": 90,
+	"time": 185
+}
+{
+	"length": 92,
+	"time": 177
+}
+{
+	"length": 93,
+	"time": 136
+}
+{
+	"length": 9,
+	"time": 100
+}
+{
+	"length": 90,
+	"time": 118
+}
+{
+	"length": 91,
+	"time": 149
+}
+{
+	"length": 91,
+	"time": 144
+}
+{
+	"length": 93,
+	"time": 205
+}
+{
+	"length": 91,
+	"time": 202
+}
+{
+	"length": 91,
+	"time": 236
+}
+{
+	"length": 92,
+	"time": 150
+}
+{
+	"length": 95,
+	"time": 124
+}
+{
+	"length": 92,
+	"time": 139
+}
+{
+	"length": 93,
+	"time": 118
+}
+{
+	"length": 11,
+	"time": 96
+}
+{
+	"length": 93,
+	"time": 111
+}
+{
+	"length": 94,
+	"time": 127
+}
+{
+	"length": 96,
+	"time": 123
+}
+{
+	"length": 94,
+	"time": 116
+}
+{
+	"length": 95,
+	"time": 117
+}
+{
+	"length": 95,
+	"time": 157
+}
+{
+	"length": 96,
+	"time": 257
+}
+{
+	"length": 96,
+	"time": 116
+}
+{
+	"length": 97,
+	"time": 125
+}
+{
+	"length": 96,
+	"time": 143
+}
+{
+	"length": 9,
+	"time": 98
+}
+{
+	"length": 97,
+	"time": 133
+}
+{
+	"length": 98,
+	"time": 121
+}
+{
+	"length": 99,
+	"time": 118
+}
+{
+	"length": 97,
+	"time": 121
+}
+{
+	"length": 100,
+	"time": 122
+}
+{
+	"length": 99,
+	"time": 151
+}
+{
+	"length": 99,
+	"time": 167
+}
+{
+	"length": 99,
+	"time": 137
+}
+{
+	"length": 102,
+	"time": 138
+}
+{
+	"length": 99,
+	"time": 120
+}
+{
+	"length": 1,
+	"time": 94
+}
+{
+	"length": 10,
+	"time": 111
+}
+{
+	"length": 102,
+	"time": 143
+}
+{
+	"length": 10,
+	"time": 127
+}
+{
+	"length": 10,
+	"time": 105
+}
+{
+	"length": 11,
+	"time": 115
+}
+{
+	"length": 11,
+	"time": 122
+}
+{
+	"length": 11,
+	"time": 133
+}
+{
+	"length": 13,
+	"time": 112
+}
+{
+	"length": 12,
+	"time": 151
+}
+{
+	"length": 12,
+	"time": 180
+}
+{
+	"length": 13,
+	"time": 119
+}
+{
+	"length": 1,
+	"time": 129
+}
+{
+	"length": 13,
+	"time": 129
+}
+{
+	"length": 13,
+	"time": 120
+}
+{
+	"length": 14,
+	"time": 159
+}
+{
+	"length": 14,
+	"time": 141
+}
+{
+	"length": 14,
+	"time": 106
+}
+{
+	"length": 15,
+	"time": 153
+}
+{
+	"length": 15,
+	"time": 134
+}
+{
+	"length": 15,
+	"time": 134
+}
+{
+	"length": 16,
+	"time": 115
+}
+{
+	"length": 16,
+	"time": 120
+}
+{
+	"length": 1,
+	"time": 112
+}
+{
+	"length": 16,
+	"time": 110
+}
+{
+	"length": 18,
+	"time": 128
+}
+{
+	"length": 17,
+	"time": 128
+}
+{
+	"length": 17,
+	"time": 124
+}
+{
+	"length": 18,
+	"time": 127
+}
+{
+	"length": 19,
+	"time": 389
+}
+{
+	"length": 18,
+	"time": 195
+}
+{
+	"length": 20,
+	"time": 136
+}
+{
+	"length": 19,
+	"time": 141
+}
+{
+	"length": 19,
+	"time": 182
+}
+{
+	"length": 2,
+	"time": 136
+}
+{
+	"length": 20,
+	"time": 171
+}
+{
+	"length": 20,
+	"time": 171
+}
+{
+	"length": 20,
+	"time": 97
+}
+{
+	"length": 21,
+	"time": 109
+}
+{
+	"length": 21,
+	"time": 205
+}
+{
+	"length": 22,
+	"time": 103
+}
+{
+	"length": 24,
+	"time": 106
+}
+{
+	"length": 22,
+	"time": 93
+}
+{
+	"length": 22,
+	"time": 96
+}
+{
+	"length": 23,
+	"time": 110
+}
+{
+	"length": 2,
+	"time": 74
+}
+{
+	"length": 23,
+	"time": 104
+}
+{
+	"length": 25,
+	"time": 87
+}
+{
+	"length": 24,
+	"time": 86
+}
+{
+	"length": 24,
+	"time": 87
+}
+{
+	"length": 25,
+	"time": 170
+}
+{
+	"length": 25,
+	"time": 90
+}
+{
+	"length": 25,
+	"time": 92
+}
+{
+	"length": 25,
+	"time": 92
+}
+{
+	"length": 26,
+	"time": 92
+}
+{
+	"length": 26,
+	"time": 97
+}
+{
+	"length": 2,
+	"time": 80
+}
+{
+	"length": 27,
+	"time": 92
+}
+{
+	"length": 27,
+	"time": 93
+}
+{
+	"length": 27,
+	"time": 93
+}
+{
+	"length": 27,
+	"time": 96
+}
+{
+	"length": 28,
+	"time": 94
+}
+{
+	"length": 29,
+	"time": 93
+}
+{
+	"length": 29,
+	"time": 99
+}
+{
+	"length": 29,
+	"time": 93
+}
+{
+	"length": 31,
+	"time": 102
+}
+{
+	"length": 29,
+	"time": 113
+}
+{
+	"length": 3,
+	"time": 84
+}
+{
+	"length": 31,
+	"time": 92
+}
+{
+	"length": 30,
+	"time": 95
+}
+{
+	"length": 30,
+	"time": 105
+}
+{
+	"length": 31,
+	"time": 107
+}
+{
+	"length": 31,
+	"time": 109
+}
+{
+	"length": 31,
+	"time": 92
+}
+{
+	"length": 35,
+	"time": 128
+}
+{
+	"length": 32,
+	"time": 96
+}
+{
+	"length": 32,
+	"time": 89
+}
+{
+	"length": 33,
+	"time": 116
+}
